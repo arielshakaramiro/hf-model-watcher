@@ -1,0 +1,55 @@
+{
+  "timezone": "Asia/Jakarta",
+  "readme_recent_days": 7,
+  "readme_per_category": 10,
+  "exclude_name_patterns": [
+    "test", "demo", "tmp", "temp", "debug", "dummy", "trial", "practice",
+    "checkpoint-\\d+", "ckpt", "my[-_]?model", "assignment", "homework", "tugas"
+  ],
+  "categories": {
+    "vision": {
+      "label": "Vision",
+      "description": "New computer-vision and vision-language models that are already getting attention.",
+      "pipeline_tags": [
+        "image-classification", "object-detection", "image-segmentation",
+        "zero-shot-image-classification", "zero-shot-object-detection",
+        "depth-estimation", "image-feature-extraction", "keypoint-detection",
+        "mask-generation", "video-classification", "image-text-to-text"
+      ],
+      "sort": "trending_score",
+      "fetch_limit": 150,
+      "max_age_days": 30,
+      "min_likes": 3,
+      "min_downloads": 500
+    },
+    "speech": {
+      "label": "Speech",
+      "description": "New speech recognition, text-to-speech and audio models that are already getting attention.",
+      "pipeline_tags": [
+        "automatic-speech-recognition", "text-to-speech", "text-to-audio",
+        "audio-classification", "audio-to-audio", "voice-activity-detection",
+        "audio-text-to-text"
+      ],
+      "sort": "trending_score",
+      "fetch_limit": 150,
+      "max_age_days": 30,
+      "min_likes": 3,
+      "min_downloads": 500
+    },
+    "llm-indonesia": {
+      "label": "LLM Indonesia",
+      "description": "Every new language model tagged with Indonesian (`id`), including base, instruct, GGUF and LoRA releases.",
+      "language": "id",
+      "pipeline_tags": ["text-generation", "image-text-to-text", "text2text-generation"],
+      "untagged_llm_hints": [
+        "llama", "gemma", "gemma2", "gemma3", "qwen2", "qwen3", "mistral",
+        "phi3", "gpt2", "gguf", "conversational", "causal-lm", "peft"
+      ],
+      "sort": "created_at",
+      "fetch_limit": 300,
+      "max_age_days": 30,
+      "min_likes": 0,
+      "min_downloads": 0
+    }
+  }
+}
