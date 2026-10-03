@@ -11,25 +11,25 @@ Every morning a GitHub Actions workflow queries the Hub, filters out noise, adds
 ## Recent additions
 
 <!-- WATCHER_START -->
-_Last updated 2026-10-02 · catalog size: Vision: 91 · Speech: 57 · LLM Indonesia: 100 · [today's report](reports/2026/10/2026-10-02.md)_
+_Last updated 2026-10-03 · catalog size: Vision: 102 · Speech: 62 · LLM Indonesia: 108 · [today's report](reports/2026/10/2026-10-03.md)_
 
 ### Vision
 
 New computer-vision and vision-language models that are already getting attention.
 
-Most-liked of the 91 added in the last 7 days:
+Most-liked of the 102 added in the last 7 days:
 
 | Model | Task | Size | License | ❤️ | ⬇️ | Created |
 |-------|------|-----:|---------|---:|---:|---------|
-| [deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash) | image-text-to-text | 763.21B | mit | 4.0k | 748.5k | 2026-09-10 |
-| [TaichuAI/ZDTaichu5.0-9B](https://huggingface.co/TaichuAI/ZDTaichu5.0-9B) | image-text-to-text | 9.79B | – | 2.6k | 12.2k | 2026-09-04 |
-| [ukisai/Swift-Qwen3.8-27b](https://huggingface.co/ukisai/Swift-Qwen3.8-27b) | image-text-to-text | 27.78B | other | 609 | 21.5k | 2026-09-08 |
-| [XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B](https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B) | image-text-to-text | 9.41B | mit | 603 | 12.8k | 2026-09-21 |
-| [ukisai/Swift-Qwen3.8-27B-GGUF](https://huggingface.co/ukisai/Swift-Qwen3.8-27B-GGUF) | image-text-to-text | – | other | 444 | 271.8k | 2026-09-11 |
-| [Cloudflare/clef](https://huggingface.co/Cloudflare/clef) | image-text-to-text | 27.36B | apache-2.0 | 437 | 18 | 2026-09-30 |
-| [ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF) | image-text-to-text | – | apache-2.0 | 436 | 952.1k | 2026-09-07 |
-| [dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8](https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8) | image-text-to-text | 763.21B | mit | 392 | 46.4k | 2026-09-10 |
-| [PSRben/VisionHOPE](https://huggingface.co/PSRben/VisionHOPE) | image-classification | – | mit | 362 | 305 | 2026-09-29 |
+| [deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash) | image-text-to-text | 763.21B | mit | 4.0k | 767.9k | 2026-09-10 |
+| [TaichuAI/ZDTaichu5.0-9B](https://huggingface.co/TaichuAI/ZDTaichu5.0-9B) | image-text-to-text | 9.79B | – | 2.7k | 12.4k | 2026-09-04 |
+| [Cloudflare/clef](https://huggingface.co/Cloudflare/clef) | image-text-to-text | 27.36B | apache-2.0 | 835 | 824 | 2026-09-30 |
+| [ukisai/Swift-Qwen3.8-27b](https://huggingface.co/ukisai/Swift-Qwen3.8-27b) | image-text-to-text | 27.78B | other | 611 | 21.7k | 2026-09-08 |
+| [XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B](https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B) | image-text-to-text | 9.41B | mit | 608 | 13.7k | 2026-09-21 |
+| [ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF) | image-text-to-text | – | apache-2.0 | 471 | 1.1M | 2026-09-07 |
+| [ukisai/Swift-Qwen3.8-27B-GGUF](https://huggingface.co/ukisai/Swift-Qwen3.8-27B-GGUF) | image-text-to-text | – | other | 446 | 296.5k | 2026-09-11 |
+| [dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8](https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8) | image-text-to-text | 763.21B | mit | 401 | 56.0k | 2026-09-10 |
+| [PSRben/VisionHOPE](https://huggingface.co/PSRben/VisionHOPE) | image-classification | – | mit | 377 | 1.3k | 2026-09-29 |
 | [nvidia/Qwen3.8-Flash-Next-NVFP4](https://huggingface.co/nvidia/Qwen3.8-Flash-Next-NVFP4) | image-text-to-text | 119.6B | other | 330 | 237.9k | 2026-09-02 |
 
 [Full catalog →](catalog/vision.csv)
@@ -38,20 +38,20 @@ Most-liked of the 91 added in the last 7 days:
 
 New speech recognition, text-to-speech and audio models that are already getting attention.
 
-Most-liked of the 57 added in the last 7 days:
+Most-liked of the 62 added in the last 7 days:
 
 | Model | Task | Size | License | ❤️ | ⬇️ | Created |
 |-------|------|-----:|---------|---:|---:|---------|
-| [Edge0/Audio8-ASR-Infinite](https://huggingface.co/Edge0/Audio8-ASR-Infinite) | automatic-speech-recognition | 4.09B | apache-2.0 | 2.2k | 27.2k | 2026-09-21 |
-| [m-a-p/YuE2-3B](https://huggingface.co/m-a-p/YuE2-3B) | text-to-audio | 3.63B | cc-by-nc-4.0 | 1.1k | 30.8k | 2026-09-09 |
+| [Edge0/Audio8-ASR-Infinite](https://huggingface.co/Edge0/Audio8-ASR-Infinite) | automatic-speech-recognition | 4.09B | apache-2.0 | 2.4k | 36.8k | 2026-09-21 |
+| [m-a-p/YuE2-3B](https://huggingface.co/m-a-p/YuE2-3B) | text-to-audio | 3.63B | cc-by-nc-4.0 | 1.1k | 31.6k | 2026-09-09 |
 | [nvidia/Nemotron-3-Diarization](https://huggingface.co/nvidia/Nemotron-3-Diarization) | voice-activity-detection | 0.1B | openmdw-1.1 | 572 | 36.4k | 2026-09-01 |
-| [netease-youdao/Confucius4-R2T2](https://huggingface.co/netease-youdao/Confucius4-R2T2) | automatic-speech-recognition | 2.04B | other | 493 | 12.6k | 2026-09-10 |
+| [netease-youdao/Confucius4-R2T2](https://huggingface.co/netease-youdao/Confucius4-R2T2) | automatic-speech-recognition | 2.04B | other | 502 | 13.8k | 2026-09-10 |
 | [microsoft/VibeVoice-ASR-Streaming-7B](https://huggingface.co/microsoft/VibeVoice-ASR-Streaming-7B) | automatic-speech-recognition | 8.67B | mit | 250 | 7.0k | 2026-09-02 |
-| [moondream/parakeet-redux](https://huggingface.co/moondream/parakeet-redux) | automatic-speech-recognition | 0.15B | cc-by-4.0 | 175 | 8.3k | 2026-09-18 |
-| [FermionResearch/Phonon-2](https://huggingface.co/FermionResearch/Phonon-2) | automatic-speech-recognition | – | cc-by-4.0 | 141 | 1.3k | 2026-09-28 |
-| [oruk/orukeet](https://huggingface.co/oruk/orukeet) | automatic-speech-recognition | 0.63B | cc-by-sa-4.0 | 91 | 31.2k | 2026-09-09 |
-| [audio-cpp/Yue2-3B-GGUF](https://huggingface.co/audio-cpp/Yue2-3B-GGUF) | text-to-audio | – | cc-by-nc-4.0 | 89 | 144.4k | 2026-09-10 |
-| [moondream/parakeet-ultra](https://huggingface.co/moondream/parakeet-ultra) | automatic-speech-recognition | 0.63B | cc-by-4.0 | 61 | 5.9k | 2026-09-22 |
+| [moondream/parakeet-redux](https://huggingface.co/moondream/parakeet-redux) | automatic-speech-recognition | 0.15B | cc-by-4.0 | 177 | 8.6k | 2026-09-18 |
+| [FermionResearch/Phonon-2](https://huggingface.co/FermionResearch/Phonon-2) | automatic-speech-recognition | – | cc-by-4.0 | 155 | 2.1k | 2026-09-28 |
+| [oruk/orukeet](https://huggingface.co/oruk/orukeet) | automatic-speech-recognition | 0.63B | cc-by-sa-4.0 | 92 | 32.8k | 2026-09-09 |
+| [audio-cpp/Yue2-3B-GGUF](https://huggingface.co/audio-cpp/Yue2-3B-GGUF) | text-to-audio | – | cc-by-nc-4.0 | 89 | 150.6k | 2026-09-10 |
+| [moondream/parakeet-ultra](https://huggingface.co/moondream/parakeet-ultra) | automatic-speech-recognition | 0.63B | cc-by-4.0 | 64 | 6.9k | 2026-09-22 |
 
 [Full catalog →](catalog/speech.csv)
 
@@ -59,20 +59,20 @@ Most-liked of the 57 added in the last 7 days:
 
 Every new language model tagged with Indonesian (`id`), including base, instruct, GGUF and LoRA releases.
 
-Most-liked of the 100 added in the last 7 days:
+Most-liked of the 108 added in the last 7 days:
 
 | Model | Task | Size | License | ❤️ | ⬇️ | Created |
 |-------|------|-----:|---------|---:|---:|---------|
-| [DavidAU/LFM2.5-2.6B-Qwen3.8-Turbo-Brilliance-Power-X12-NEO-MAX-GGUF](https://huggingface.co/DavidAU/LFM2.5-2.6B-Qwen3.8-Turbo-Brilliance-Power-X12-NEO-MAX-GGUF) | text-generation | – | apache-2.0 | 118 | 13.1k | 2026-09-17 |
-| [DavidAU/Qwen3.8-27B-Turbo-Brilliance-Power-35X-Reasoning-Instruct-modes-GGUF](https://huggingface.co/DavidAU/Qwen3.8-27B-Turbo-Brilliance-Power-35X-Reasoning-Instruct-modes-GGUF) | image-text-to-text | – | apache-2.0 | 33 | 0 | 2026-09-29 |
-| [hiwaifu-research/WaifuGemma4-26b-a4b-v1](https://huggingface.co/hiwaifu-research/WaifuGemma4-26b-a4b-v1) | text-generation | 25.81B | apache-2.0 | 21 | 1.4k | 2026-09-18 |
-| [monotykamary/LFM2.5-2.6B-RLCD](https://huggingface.co/monotykamary/LFM2.5-2.6B-RLCD) | text-generation | 2.7B | other | 7 | 723 | 2026-09-16 |
-| [hiwaifu-research/WaifuGemma4-26b-a4b-v1-i1-GGUF](https://huggingface.co/hiwaifu-research/WaifuGemma4-26b-a4b-v1-i1-GGUF) | text-generation | – | apache-2.0 | 4 | 5.8k | 2026-09-18 |
-| [CohereLabs/tiny-aya-base-32K](https://huggingface.co/CohereLabs/tiny-aya-base-32K) | text-generation | 3.35B | cc-by-nc-4.0 | 4 | 8 | 2026-09-08 |
-| [DahonoLabs/Dahono-4B](https://huggingface.co/DahonoLabs/Dahono-4B) | image-text-to-text | 4.66B | apache-2.0 | 3 | 2.3k | 2026-09-13 |
-| [hiwaifu-research/WaifuGemma4-26b-a4b-v1-GGUF](https://huggingface.co/hiwaifu-research/WaifuGemma4-26b-a4b-v1-GGUF) | text-generation | – | apache-2.0 | 2 | 1.1k | 2026-09-18 |
-| [inboxpraveen/Kavach-PII-270M-GGUF](https://huggingface.co/inboxpraveen/Kavach-PII-270M-GGUF) | text-generation | – | gemma | 2 | 855 | 2026-09-23 |
-| [alekringtonnn-ai/zubr-mini-1.8-3b](https://huggingface.co/alekringtonnn-ai/zubr-mini-1.8-3b) | text-generation | – | apache-2.0 | 2 | 816 | 2026-09-10 |
+| [DavidAU/LFM2.5-2.6B-Qwen3.8-Turbo-Brilliance-Power-X12-NEO-MAX-GGUF](https://huggingface.co/DavidAU/LFM2.5-2.6B-Qwen3.8-Turbo-Brilliance-Power-X12-NEO-MAX-GGUF) | text-generation | – | apache-2.0 | 125 | 16.0k | 2026-09-17 |
+| [DavidAU/Qwen3.8-27B-Turbo-Brilliance-Power-35X-Reasoning-Instruct-modes-GGUF](https://huggingface.co/DavidAU/Qwen3.8-27B-Turbo-Brilliance-Power-35X-Reasoning-Instruct-modes-GGUF) | image-text-to-text | – | apache-2.0 | 41 | 0 | 2026-09-29 |
+| [hiwaifu-research/WaifuGemma4-26b-a4b-v1](https://huggingface.co/hiwaifu-research/WaifuGemma4-26b-a4b-v1) | text-generation | 25.81B | apache-2.0 | 22 | 1.5k | 2026-09-18 |
+| [monotykamary/LFM2.5-2.6B-RLCD](https://huggingface.co/monotykamary/LFM2.5-2.6B-RLCD) | text-generation | 2.7B | other | 7 | 740 | 2026-09-16 |
+| [DavidAU/LFM2.5-8B-A1B-Qwen3.8-Turbo-Brilliance-Power-X12-NEO-MAX-GGUF](https://huggingface.co/DavidAU/LFM2.5-8B-A1B-Qwen3.8-Turbo-Brilliance-Power-X12-NEO-MAX-GGUF) | text-generation | – | apache-2.0 | 5 | 0 | 2026-10-02 |
+| [hiwaifu-research/WaifuGemma4-26b-a4b-v1-i1-GGUF](https://huggingface.co/hiwaifu-research/WaifuGemma4-26b-a4b-v1-i1-GGUF) | text-generation | – | apache-2.0 | 4 | 6.5k | 2026-09-18 |
+| [CohereLabs/tiny-aya-base-32K](https://huggingface.co/CohereLabs/tiny-aya-base-32K) | text-generation | 3.35B | cc-by-nc-4.0 | 4 | 9 | 2026-09-08 |
+| [DahonoLabs/Dahono-4B](https://huggingface.co/DahonoLabs/Dahono-4B) | image-text-to-text | 4.66B | apache-2.0 | 3 | 2.4k | 2026-09-13 |
+| [hiwaifu-research/WaifuGemma4-26b-a4b-v1-GGUF](https://huggingface.co/hiwaifu-research/WaifuGemma4-26b-a4b-v1-GGUF) | text-generation | – | apache-2.0 | 2 | 1.2k | 2026-09-18 |
+| [inboxpraveen/Kavach-PII-270M-GGUF](https://huggingface.co/inboxpraveen/Kavach-PII-270M-GGUF) | text-generation | – | gemma | 2 | 890 | 2026-09-23 |
 
 [Full catalog →](catalog/llm-indonesia.csv)
 
