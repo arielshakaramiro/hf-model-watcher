@@ -11,26 +11,26 @@ Every morning a GitHub Actions workflow queries the Hub, filters out noise, adds
 ## Recent additions
 
 <!-- WATCHER_START -->
-_Last updated 2026-10-05 · catalog size: Vision: 115 · Speech: 72 · LLM Indonesia: 112 · [today's report](reports/2026/10/2026-10-05.md)_
+_Last updated 2026-10-06 · catalog size: Vision: 123 · Speech: 82 · LLM Indonesia: 118 · [today's report](reports/2026/10/2026-10-06.md)_
 
 ### Vision
 
 New computer-vision and vision-language models that are already getting attention.
 
-Most-liked of the 115 added in the last 7 days:
+Most-liked of the 123 added in the last 7 days:
 
 | Model | Task | Size | License | ❤️ | ⬇️ | Created |
 |-------|------|-----:|---------|---:|---:|---------|
-| [deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash) | image-text-to-text | 763.21B | mit | 4.1k | 798.4k | 2026-09-10 |
+| [deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash) | image-text-to-text | 763.21B | mit | 4.1k | 869.3k | 2026-09-10 |
 | [TaichuAI/ZDTaichu5.0-9B](https://huggingface.co/TaichuAI/ZDTaichu5.0-9B) | image-text-to-text | 9.79B | – | 2.8k | 12.5k | 2026-09-04 |
-| [Cloudflare/clef](https://huggingface.co/Cloudflare/clef) | image-text-to-text | 27.36B | apache-2.0 | 1.3k | 4.2k | 2026-09-30 |
-| [XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B](https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B) | image-text-to-text | 9.41B | mit | 613 | 15.4k | 2026-09-21 |
-| [ukisai/Swift-Qwen3.8-27b](https://huggingface.co/ukisai/Swift-Qwen3.8-27b) | image-text-to-text | 27.78B | other | 612 | 22.2k | 2026-09-08 |
-| [ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF) | image-text-to-text | – | apache-2.0 | 565 | 1.9M | 2026-09-07 |
-| [ukisai/Swift-Qwen3.8-27B-GGUF](https://huggingface.co/ukisai/Swift-Qwen3.8-27B-GGUF) | image-text-to-text | – | other | 451 | 343.6k | 2026-09-11 |
-| [Cloudflare/clef-flash](https://huggingface.co/Cloudflare/clef-flash) | image-text-to-text | 9.41B | apache-2.0 | 445 | 6.4k | 2026-09-30 |
-| [dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8](https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8) | image-text-to-text | 763.21B | mit | 411 | 64.8k | 2026-09-10 |
-| [PSRben/VisionHOPE](https://huggingface.co/PSRben/VisionHOPE) | image-classification | – | mit | 407 | 1.5k | 2026-09-29 |
+| [Cloudflare/clef](https://huggingface.co/Cloudflare/clef) | image-text-to-text | 27.36B | apache-2.0 | 1.5k | 5.4k | 2026-09-30 |
+| [autotrust/JEV-27B-VL](https://huggingface.co/autotrust/JEV-27B-VL) | image-text-to-text | 27.78B | apache-2.0 | 804 | 1.3M | 2026-09-30 |
+| [ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF) | image-text-to-text | – | apache-2.0 | 625 | 2.2M | 2026-09-07 |
+| [ukisai/Swift-Qwen3.8-27b](https://huggingface.co/ukisai/Swift-Qwen3.8-27b) | image-text-to-text | 27.78B | other | 615 | 22.3k | 2026-09-08 |
+| [XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B](https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B) | image-text-to-text | 9.41B | mit | 615 | 16.2k | 2026-09-21 |
+| [Cloudflare/clef-flash](https://huggingface.co/Cloudflare/clef-flash) | image-text-to-text | 9.41B | apache-2.0 | 548 | 8.1k | 2026-09-30 |
+| [ukisai/Swift-Qwen3.8-27B-GGUF](https://huggingface.co/ukisai/Swift-Qwen3.8-27B-GGUF) | image-text-to-text | – | other | 453 | 362.2k | 2026-09-11 |
+| [PSRben/VisionHOPE](https://huggingface.co/PSRben/VisionHOPE) | image-classification | – | mit | 426 | 1.7k | 2026-09-29 |
 
 [Full catalog →](catalog/vision.csv)
 
@@ -38,20 +38,20 @@ Most-liked of the 115 added in the last 7 days:
 
 New speech recognition, text-to-speech and audio models that are already getting attention.
 
-Most-liked of the 72 added in the last 7 days:
+Most-liked of the 82 added in the last 7 days:
 
 | Model | Task | Size | License | ❤️ | ⬇️ | Created |
 |-------|------|-----:|---------|---:|---:|---------|
-| [Edge0/Audio8-ASR-Infinite](https://huggingface.co/Edge0/Audio8-ASR-Infinite) | automatic-speech-recognition | 4.09B | apache-2.0 | 2.4k | 40.0k | 2026-09-21 |
-| [m-a-p/YuE2-3B](https://huggingface.co/m-a-p/YuE2-3B) | text-to-audio | 3.63B | cc-by-nc-4.0 | 1.1k | 33.3k | 2026-09-09 |
+| [Edge0/Audio8-ASR-Infinite](https://huggingface.co/Edge0/Audio8-ASR-Infinite) | automatic-speech-recognition | 4.09B | apache-2.0 | 2.4k | 40.1k | 2026-09-21 |
+| [m-a-p/YuE2-3B](https://huggingface.co/m-a-p/YuE2-3B) | text-to-audio | 3.63B | cc-by-nc-4.0 | 1.1k | 34.1k | 2026-09-09 |
 | [nvidia/Nemotron-3-Diarization](https://huggingface.co/nvidia/Nemotron-3-Diarization) | voice-activity-detection | 0.1B | openmdw-1.1 | 572 | 36.4k | 2026-09-01 |
-| [netease-youdao/Confucius4-R2T2](https://huggingface.co/netease-youdao/Confucius4-R2T2) | automatic-speech-recognition | 2.04B | other | 516 | 16.4k | 2026-09-10 |
+| [netease-youdao/Confucius4-R2T2](https://huggingface.co/netease-youdao/Confucius4-R2T2) | automatic-speech-recognition | 2.04B | other | 521 | 17.5k | 2026-09-10 |
 | [microsoft/VibeVoice-ASR-Streaming-7B](https://huggingface.co/microsoft/VibeVoice-ASR-Streaming-7B) | automatic-speech-recognition | 8.67B | mit | 250 | 7.0k | 2026-09-02 |
-| [moondream/parakeet-redux](https://huggingface.co/moondream/parakeet-redux) | automatic-speech-recognition | 0.15B | cc-by-4.0 | 214 | 9.0k | 2026-09-18 |
-| [FermionResearch/Phonon-2](https://huggingface.co/FermionResearch/Phonon-2) | automatic-speech-recognition | – | cc-by-4.0 | 208 | 2.6k | 2026-09-28 |
-| [oruk/orukeet](https://huggingface.co/oruk/orukeet) | automatic-speech-recognition | 0.63B | cc-by-sa-4.0 | 96 | 35.8k | 2026-09-09 |
-| [audio-cpp/Yue2-3B-GGUF](https://huggingface.co/audio-cpp/Yue2-3B-GGUF) | text-to-audio | – | cc-by-nc-4.0 | 89 | 162.1k | 2026-09-10 |
-| [Cactus-Compute/whistle](https://huggingface.co/Cactus-Compute/whistle) | automatic-speech-recognition | – | apache-2.0 | 81 | 542 | 2026-09-30 |
+| [FermionResearch/Phonon-2](https://huggingface.co/FermionResearch/Phonon-2) | automatic-speech-recognition | – | cc-by-4.0 | 238 | 3.1k | 2026-09-28 |
+| [moondream/parakeet-redux](https://huggingface.co/moondream/parakeet-redux) | automatic-speech-recognition | 0.15B | cc-by-4.0 | 232 | 10.2k | 2026-09-18 |
+| [Cactus-Compute/whistle](https://huggingface.co/Cactus-Compute/whistle) | automatic-speech-recognition | – | apache-2.0 | 111 | 1.4k | 2026-09-30 |
+| [oruk/orukeet](https://huggingface.co/oruk/orukeet) | automatic-speech-recognition | 0.63B | cc-by-sa-4.0 | 97 | 36.7k | 2026-09-09 |
+| [audio-cpp/Yue2-3B-GGUF](https://huggingface.co/audio-cpp/Yue2-3B-GGUF) | text-to-audio | – | cc-by-nc-4.0 | 90 | 166.3k | 2026-09-10 |
 
 [Full catalog →](catalog/speech.csv)
 
@@ -59,20 +59,20 @@ Most-liked of the 72 added in the last 7 days:
 
 Every new language model tagged with Indonesian (`id`), including base, instruct, GGUF and LoRA releases.
 
-Most-liked of the 112 added in the last 7 days:
+Most-liked of the 118 added in the last 7 days:
 
 | Model | Task | Size | License | ❤️ | ⬇️ | Created |
 |-------|------|-----:|---------|---:|---:|---------|
-| [DavidAU/LFM2.5-2.6B-Qwen3.8-Turbo-Brilliance-Power-X12-NEO-MAX-GGUF](https://huggingface.co/DavidAU/LFM2.5-2.6B-Qwen3.8-Turbo-Brilliance-Power-X12-NEO-MAX-GGUF) | text-generation | – | apache-2.0 | 134 | 21.3k | 2026-09-17 |
-| [DavidAU/Qwen3.8-27B-Turbo-Brilliance-Power-35X-Reasoning-Instruct-modes-GGUF](https://huggingface.co/DavidAU/Qwen3.8-27B-Turbo-Brilliance-Power-35X-Reasoning-Instruct-modes-GGUF) | image-text-to-text | – | apache-2.0 | 49 | 0 | 2026-09-29 |
+| [DavidAU/LFM2.5-2.6B-Qwen3.8-Turbo-Brilliance-Power-X12-NEO-MAX-GGUF](https://huggingface.co/DavidAU/LFM2.5-2.6B-Qwen3.8-Turbo-Brilliance-Power-X12-NEO-MAX-GGUF) | text-generation | – | apache-2.0 | 142 | 23.0k | 2026-09-17 |
+| [DavidAU/Qwen3.8-27B-Turbo-Brilliance-Power-35X-Reasoning-Instruct-modes-GGUF](https://huggingface.co/DavidAU/Qwen3.8-27B-Turbo-Brilliance-Power-35X-Reasoning-Instruct-modes-GGUF) | image-text-to-text | – | apache-2.0 | 53 | 0 | 2026-09-29 |
 | [hiwaifu-research/WaifuGemma4-26b-a4b-v1](https://huggingface.co/hiwaifu-research/WaifuGemma4-26b-a4b-v1) | text-generation | 25.81B | apache-2.0 | 23 | 1.5k | 2026-09-18 |
-| [DavidAU/LFM2.5-8B-A1B-Qwen3.8-Turbo-Brilliance-Power-X12-NEO-MAX-GGUF](https://huggingface.co/DavidAU/LFM2.5-8B-A1B-Qwen3.8-Turbo-Brilliance-Power-X12-NEO-MAX-GGUF) | text-generation | – | apache-2.0 | 10 | 3.9k | 2026-10-02 |
-| [monotykamary/LFM2.5-2.6B-RLCD](https://huggingface.co/monotykamary/LFM2.5-2.6B-RLCD) | text-generation | 2.7B | other | 7 | 767 | 2026-09-16 |
-| [hiwaifu-research/WaifuGemma4-26b-a4b-v1-i1-GGUF](https://huggingface.co/hiwaifu-research/WaifuGemma4-26b-a4b-v1-i1-GGUF) | text-generation | – | apache-2.0 | 6 | 6.9k | 2026-09-18 |
+| [DavidAU/LFM2.5-8B-A1B-Qwen3.8-Turbo-Brilliance-Power-X12-NEO-MAX-GGUF](https://huggingface.co/DavidAU/LFM2.5-8B-A1B-Qwen3.8-Turbo-Brilliance-Power-X12-NEO-MAX-GGUF) | text-generation | – | apache-2.0 | 15 | 5.0k | 2026-10-02 |
+| [monotykamary/LFM2.5-2.6B-RLCD](https://huggingface.co/monotykamary/LFM2.5-2.6B-RLCD) | text-generation | 2.7B | other | 7 | 779 | 2026-09-16 |
+| [hiwaifu-research/WaifuGemma4-26b-a4b-v1-i1-GGUF](https://huggingface.co/hiwaifu-research/WaifuGemma4-26b-a4b-v1-i1-GGUF) | text-generation | – | apache-2.0 | 6 | 9.0k | 2026-09-18 |
+| [sionic-ai/PepperOCR-VL](https://huggingface.co/sionic-ai/PepperOCR-VL) | image-text-to-text | 4.54B | agpl-3.0 | 5 | 12 | 2026-10-04 |
 | [CohereLabs/tiny-aya-base-32K](https://huggingface.co/CohereLabs/tiny-aya-base-32K) | text-generation | 3.35B | cc-by-nc-4.0 | 4 | 9 | 2026-09-08 |
 | [DahonoLabs/Dahono-4B](https://huggingface.co/DahonoLabs/Dahono-4B) | image-text-to-text | 4.66B | apache-2.0 | 3 | 2.4k | 2026-09-13 |
 | [hiwaifu-research/WaifuGemma4-26b-a4b-v1-GGUF](https://huggingface.co/hiwaifu-research/WaifuGemma4-26b-a4b-v1-GGUF) | text-generation | – | apache-2.0 | 2 | 1.3k | 2026-09-18 |
-| [inboxpraveen/Kavach-PII-270M-GGUF](https://huggingface.co/inboxpraveen/Kavach-PII-270M-GGUF) | text-generation | – | gemma | 2 | 903 | 2026-09-23 |
 
 [Full catalog →](catalog/llm-indonesia.csv)
 

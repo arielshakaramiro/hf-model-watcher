@@ -1,72 +1,82 @@
 model_id,author,task,library,params_b,license,base_model,languages,created_at,first_seen,likes,downloads,url
-tiyuvta/Phonon-2-ONNX,tiyuvta,automatic-speech-recognition,onnx,,cc-by-4.0,FermionResearch/Phonon-2,en,2026-10-01,2026-10-05,2,1009,https://huggingface.co/tiyuvta/Phonon-2-ONNX
-AKinvox/kokoro-cloning-v1,AKinvox,text-to-speech,,,apache-2.0,hexgrad/Kokoro-82M,en,2026-09-27,2026-10-05,4,33,https://huggingface.co/AKinvox/kokoro-cloning-v1
-AhmedReda25300/SpeechX,AhmedReda25300,audio-classification,,0.02,apache-2.0,openai/whisper-base,,2026-09-11,2026-10-05,4,100,https://huggingface.co/AhmedReda25300/SpeechX
+j-llm/Irodori-TTS-v4.1-Small-Yomi-Tech-tuned,j-llm,text-to-speech,,,other,takuma104/Irodori-TTS-v4.1-Small-Yomi,ja,2026-10-04,2026-10-06,3,0,https://huggingface.co/j-llm/Irodori-TTS-v4.1-Small-Yomi-Tech-tuned
+danish-foundation-models/edda-v0.2,danish-foundation-models,automatic-speech-recognition,transformers,0.81,apache-2.0,openai/whisper-large-v3-turbo,da,2026-10-02,2026-10-06,3,32,https://huggingface.co/danish-foundation-models/edda-v0.2
+abdelhak-k/Natiq-dz-ARG,abdelhak-k,text-to-speech,peft,,cc-by-nc-4.0,bosonai/higgs-tts-3-4b,ar fr en,2026-10-02,2026-10-06,3,21,https://huggingface.co/abdelhak-k/Natiq-dz-ARG
+spellbrush/kyaraembed,spellbrush,audio-classification,,,cc-by-nc-4.0,litagin/anime_speaker_embedding_ecapa_tdnn_groupnorm,ja en,2026-09-30,2026-10-06,3,0,https://huggingface.co/spellbrush/kyaraembed
+Indus-Labs/indus-pocket-tts,Indus-Labs,text-to-speech,pocket-tts,0.11,cc-by-4.0,kyutai/pocket-tts,hi en,2026-09-25,2026-10-06,4,0,https://huggingface.co/Indus-Labs/indus-pocket-tts
+kova-ai/kova-tts-1,kova-ai,text-to-speech,,1.25,other,,en,2026-09-23,2026-10-06,4,555,https://huggingface.co/kova-ai/kova-tts-1
+thepatch/YuE2-3B-GGUF,thepatch,text-to-audio,,,cc-by-nc-4.0,m-a-p/SheetSage2,en,2026-09-18,2026-10-06,2,780,https://huggingface.co/thepatch/YuE2-3B-GGUF
+zencastr/laughter-detection,zencastr,audio-classification,transformers,0.09,mit,worstchan/EAT-base_epoch30_finetune_AS2M,,2026-09-09,2026-10-06,3,40,https://huggingface.co/zencastr/laughter-detection
+alibiserikbay/kazakh-russian-mixed-stt,alibiserikbay,automatic-speech-recognition,pytorch,,apache-2.0,,kk ru,2026-09-09,2026-10-06,4,101,https://huggingface.co/alibiserikbay/kazakh-russian-mixed-stt
+mehdi-hf/pocket-tts-farsi,mehdi-hf,text-to-speech,pocket-tts,0.11,mit,,fa,2026-09-06,2026-10-06,30,0,https://huggingface.co/mehdi-hf/pocket-tts-farsi
+tiyuvta/Phonon-2-ONNX,tiyuvta,automatic-speech-recognition,onnx,,cc-by-4.0,FermionResearch/Phonon-2,en,2026-10-01,2026-10-05,2,1016,https://huggingface.co/tiyuvta/Phonon-2-ONNX
+AKinvox/kokoro-cloning-v1,AKinvox,text-to-speech,,,apache-2.0,hexgrad/Kokoro-82M,en,2026-09-27,2026-10-05,5,33,https://huggingface.co/AKinvox/kokoro-cloning-v1
+AhmedReda25300/SpeechX,AhmedReda25300,audio-classification,,0.02,apache-2.0,openai/whisper-base,,2026-09-11,2026-10-05,4,131,https://huggingface.co/AhmedReda25300/SpeechX
 zero-runtime/echo-omni,zero-runtime,audio-classification,,,,,ar bn da de en es fi fr gu hi id it ja ko mr nl no pl pt ru ta te tr uk ur vi zh,2026-09-09,2026-10-05,6,0,https://huggingface.co/zero-runtime/echo-omni
-mehdi-hf/nemotron-asr-streaming-farsi,mehdi-hf,automatic-speech-recognition,nemo,0.62,other,nvidia/nemotron-3.5-asr-streaming-0.6b,fa,2026-10-03,2026-10-04,9,79,https://huggingface.co/mehdi-hf/nemotron-asr-streaming-farsi
-audio-cpp/Audio-Flamingo-GGUF,audio-cpp,automatic-speech-recognition,,,other,nvidia/audio-flamingo-3-hf,en,2026-10-02,2026-10-04,3,1749,https://huggingface.co/audio-cpp/Audio-Flamingo-GGUF
+mehdi-hf/nemotron-asr-streaming-farsi,mehdi-hf,automatic-speech-recognition,nemo,0.62,other,nvidia/nemotron-3.5-asr-streaming-0.6b,fa,2026-10-03,2026-10-04,9,431,https://huggingface.co/mehdi-hf/nemotron-asr-streaming-farsi
+audio-cpp/Audio-Flamingo-GGUF,audio-cpp,automatic-speech-recognition,,,other,nvidia/audio-flamingo-3-hf,en,2026-10-02,2026-10-04,3,2877,https://huggingface.co/audio-cpp/Audio-Flamingo-GGUF
 wite-tech/pocket-tts-turkish,wite-tech,text-to-speech,pocket-tts,0.11,cc-by-4.0,kyutai/pocket-tts,tr,2026-09-28,2026-10-04,4,0,https://huggingface.co/wite-tech/pocket-tts-turkish
-ArtShtorm/Shtorm_PocketTTS_RU,ArtShtorm,text-to-speech,pocket-tts,,cc-by-4.0,kyutai/pocket-tts,ru,2026-09-25,2026-10-04,4,0,https://huggingface.co/ArtShtorm/Shtorm_PocketTTS_RU
+ArtShtorm/Shtorm_PocketTTS_RU,ArtShtorm,text-to-speech,pocket-tts,,cc-by-4.0,kyutai/pocket-tts,ru,2026-09-25,2026-10-04,5,0,https://huggingface.co/ArtShtorm/Shtorm_PocketTTS_RU
 mehdi-hf/pocket-tts-farsi-v2,mehdi-hf,text-to-speech,pocket-tts,0.11,cc-by-nc-4.0,,fa,2026-09-12,2026-10-04,34,0,https://huggingface.co/mehdi-hf/pocket-tts-farsi-v2
-BuzzASR/persian,BuzzASR,automatic-speech-recognition,transformers,1.55,mit,openai/whisper-large-v3,fa,2026-09-08,2026-10-04,6,958,https://huggingface.co/BuzzASR/persian
-polyskill/LGTM,polyskill,text-to-speech,,,,,en es pt fr de it sv vi ja ko id,2026-10-02,2026-10-03,5,17,https://huggingface.co/polyskill/LGTM
-FluidInference/phonon-2-coreml,FluidInference,automatic-speech-recognition,fluidaudio,,cc-by-4.0,FermionResearch/Phonon-2,en,2026-10-01,2026-10-03,3,87,https://huggingface.co/FluidInference/phonon-2-coreml
-KittenML/kitten-tts-2,KittenML,text-to-speech,,,other,,,2026-09-30,2026-10-03,7,546,https://huggingface.co/KittenML/kitten-tts-2
-Cactus-Compute/whistle,Cactus-Compute,automatic-speech-recognition,cactus-needle,,apache-2.0,,en de fr es it nl pl,2026-09-30,2026-10-03,81,542,https://huggingface.co/Cactus-Compute/whistle
-rumik-ai/rumik-oss-1,rumik-ai,text-to-speech,transformers,3.38,cc-by-nc-4.0,rumik-ai/rumik-oss-1-base,hi bn ta te mr gu kn ml pa or as ur ne sa ks en,2026-09-06,2026-10-03,64,2611,https://huggingface.co/rumik-ai/rumik-oss-1
-Modotte/AIRealNet-Audio,Modotte,audio-classification,transformers,0.09,mit,,,2026-09-29,2026-10-02,4,114,https://huggingface.co/Modotte/AIRealNet-Audio
-atomtanstudio/lora-library,atomtanstudio,text-to-audio,,,cc-by-nc-4.0,m-a-p/YuE2-3B,,2026-09-17,2026-10-02,9,0,https://huggingface.co/atomtanstudio/lora-library
+BuzzASR/persian,BuzzASR,automatic-speech-recognition,transformers,1.55,mit,openai/whisper-large-v3,fa,2026-09-08,2026-10-04,8,1016,https://huggingface.co/BuzzASR/persian
+polyskill/LGTM,polyskill,text-to-speech,,,,,en es pt fr de it sv vi ja ko id,2026-10-02,2026-10-03,5,33,https://huggingface.co/polyskill/LGTM
+FluidInference/phonon-2-coreml,FluidInference,automatic-speech-recognition,fluidaudio,,cc-by-4.0,FermionResearch/Phonon-2,en,2026-10-01,2026-10-03,3,109,https://huggingface.co/FluidInference/phonon-2-coreml
+KittenML/kitten-tts-2,KittenML,text-to-speech,,,other,,,2026-09-30,2026-10-03,8,1195,https://huggingface.co/KittenML/kitten-tts-2
+Cactus-Compute/whistle,Cactus-Compute,automatic-speech-recognition,cactus-needle,,apache-2.0,,en de fr es it nl pl,2026-09-30,2026-10-03,111,1404,https://huggingface.co/Cactus-Compute/whistle
+rumik-ai/rumik-oss-1,rumik-ai,text-to-speech,transformers,3.38,cc-by-nc-4.0,rumik-ai/rumik-oss-1-base,hi bn ta te mr gu kn ml pa or as ur ne sa ks en,2026-09-06,2026-10-03,64,2614,https://huggingface.co/rumik-ai/rumik-oss-1
+Modotte/AIRealNet-Audio,Modotte,audio-classification,transformers,0.09,mit,,,2026-09-29,2026-10-02,4,118,https://huggingface.co/Modotte/AIRealNet-Audio
+atomtanstudio/lora-library,atomtanstudio,text-to-audio,,,cc-by-nc-4.0,m-a-p/YuE2-3B,,2026-09-17,2026-10-02,10,0,https://huggingface.co/atomtanstudio/lora-library
 lokutor-ai/oido-ctc-small-int8,lokutor-ai,automatic-speech-recognition,,,cc-by-4.0,nvidia/stt_en_conformer_ctc_small,en,2026-09-30,2026-10-01,4,0,https://huggingface.co/lokutor-ai/oido-ctc-small-int8
 becausereasons/yue2-grvl-raspy-rock-soul,becausereasons,text-to-audio,,,cc-by-nc-4.0,Comfy-Org/YuE2,en,2026-09-30,2026-10-01,8,0,https://huggingface.co/becausereasons/yue2-grvl-raspy-rock-soul
 becausereasons/yue2-qtstrm-quiet-storm,becausereasons,text-to-audio,,,cc-by-nc-4.0,Comfy-Org/YuE2,en,2026-09-29,2026-10-01,3,0,https://huggingface.co/becausereasons/yue2-qtstrm-quiet-storm
-FermionResearch/Phonon-2,FermionResearch,automatic-speech-recognition,mlx,,cc-by-4.0,nvidia/parakeet-tdt-0.6b-v3,en,2026-09-28,2026-10-01,208,2635,https://huggingface.co/FermionResearch/Phonon-2
+FermionResearch/Phonon-2,FermionResearch,automatic-speech-recognition,mlx,,cc-by-4.0,nvidia/parakeet-tdt-0.6b-v3,en,2026-09-28,2026-10-01,238,3063,https://huggingface.co/FermionResearch/Phonon-2
 litert-community/Fun-ASR-Nano-2512,litert-community,automatic-speech-recognition,litert-lm,,apache-2.0,FunAudioLLM/Fun-ASR-Nano-2512,zh en ja,2026-09-27,2026-10-01,5,56,https://huggingface.co/litert-community/Fun-ASR-Nano-2512
 becausereasons/yue2-trbdr-folk-troubadour,becausereasons,text-to-audio,,,cc-by-nc-4.0,Comfy-Org/YuE2,en,2026-09-27,2026-10-01,3,0,https://huggingface.co/becausereasons/yue2-trbdr-folk-troubadour
 audio-cpp/SAM-Audio-GGUF,audio-cpp,audio-to-audio,audio.cpp,,other,facebook/sam-audio-large,,2026-09-27,2026-10-01,1,26027,https://huggingface.co/audio-cpp/SAM-Audio-GGUF
-SupraLabs/SupraTTS-0.1-Beta,SupraLabs,text-to-speech,,,mit,,en,2026-09-27,2026-10-01,20,282,https://huggingface.co/SupraLabs/SupraTTS-0.1-Beta
+SupraLabs/SupraTTS-0.1-Beta,SupraLabs,text-to-speech,,,mit,,en,2026-09-27,2026-10-01,20,324,https://huggingface.co/SupraLabs/SupraTTS-0.1-Beta
 Aratako/Irodori-TTS-v4-Large-Quantized,Aratako,text-to-speech,,,gemma,Aratako/Irodori-TTS-v4-Large,ja,2026-09-27,2026-10-01,20,0,https://huggingface.co/Aratako/Irodori-TTS-v4-Large-Quantized
-Aratako/Irodori-TTS-v4-Large,Aratako,text-to-speech,,3.29,gemma,,ja,2026-09-27,2026-10-01,62,0,https://huggingface.co/Aratako/Irodori-TTS-v4-Large
+Aratako/Irodori-TTS-v4-Large,Aratako,text-to-speech,,3.29,gemma,,ja,2026-09-27,2026-10-01,63,0,https://huggingface.co/Aratako/Irodori-TTS-v4-Large
 rijulpaul/Qwen3-TTS-12Hz-0.6B-Wriothesley-LoRa-16,rijulpaul,text-to-speech,peft,0.91,mit,Qwen/Qwen3-TTS-12Hz-0.6B-Base,en,2026-09-25,2026-10-01,2,752,https://huggingface.co/rijulpaul/Qwen3-TTS-12Hz-0.6B-Wriothesley-LoRa-16
 BaseLayer/Uzbek_MuteVoice-STT,BaseLayer,automatic-speech-recognition,transformers,0.76,,,,2026-09-25,2026-10-01,3,59,https://huggingface.co/BaseLayer/Uzbek_MuteVoice-STT
-onnx-community/Nemotron-3-Diarization-ONNX,onnx-community,voice-activity-detection,nemo,,openmdw-1.1,nvidia/Nemotron-3-Diarization,,2026-09-24,2026-10-01,6,2152,https://huggingface.co/onnx-community/Nemotron-3-Diarization-ONNX
+onnx-community/Nemotron-3-Diarization-ONNX,onnx-community,voice-activity-detection,nemo,,openmdw-1.1,nvidia/Nemotron-3-Diarization,,2026-09-24,2026-10-01,7,2288,https://huggingface.co/onnx-community/Nemotron-3-Diarization-ONNX
 litert-community/Nemotron-3-Diarization-LiteRT,litert-community,voice-activity-detection,litert,,openmdw-1.1,nvidia/Nemotron-3-Diarization,,2026-09-24,2026-10-01,4,159,https://huggingface.co/litert-community/Nemotron-3-Diarization-LiteRT
-danish-foundation-models/edda-v0.1,danish-foundation-models,automatic-speech-recognition,transformers,0.81,apache-2.0,openai/whisper-large-v3-turbo,da,2026-09-24,2026-10-01,7,519,https://huggingface.co/danish-foundation-models/edda-v0.1
+danish-foundation-models/edda-v0.1,danish-foundation-models,automatic-speech-recognition,transformers,0.81,apache-2.0,openai/whisper-large-v3-turbo,da,2026-09-24,2026-10-01,7,544,https://huggingface.co/danish-foundation-models/edda-v0.1
 RunwuShi/UNITE-AUDIO,RunwuShi,text-to-audio,,,apache-2.0,,,2026-09-24,2026-10-01,5,0,https://huggingface.co/RunwuShi/UNITE-AUDIO
-Lmaana/lmaana-2.4,Lmaana,automatic-speech-recognition,fairseq2,,other,,ar,2026-09-24,2026-10-01,4,0,https://huggingface.co/Lmaana/lmaana-2.4
+Lmaana/lmaana-2.4,Lmaana,automatic-speech-recognition,fairseq2,,other,,ar,2026-09-24,2026-10-01,5,0,https://huggingface.co/Lmaana/lmaana-2.4
 FluidInference/parakeet-ultra-coreml,FluidInference,automatic-speech-recognition,fluidaudio,,cc-by-4.0,moondream/parakeet-ultra,en de fr es it pt ru uk hr sl lv lt et fi sv da nl pl cs sk hu ro bg el mt,2026-09-24,2026-10-01,4,1128,https://huggingface.co/FluidInference/parakeet-ultra-coreml
-mlx-community/Nemotron-3-Diarization-8bit,mlx-community,voice-activity-detection,mlx-audio,0.10,openmdw-1.1,nvidia/Nemotron-3-Diarization,,2026-09-23,2026-10-01,4,319,https://huggingface.co/mlx-community/Nemotron-3-Diarization-8bit
+mlx-community/Nemotron-3-Diarization-8bit,mlx-community,voice-activity-detection,mlx-audio,0.10,openmdw-1.1,nvidia/Nemotron-3-Diarization,,2026-09-23,2026-10-01,4,336,https://huggingface.co/mlx-community/Nemotron-3-Diarization-8bit
 mlx-community/Nemotron-3-Diarization,mlx-community,voice-activity-detection,mlx-audio,0.10,openmdw-1.1,nvidia/Nemotron-3-Diarization,,2026-09-23,2026-10-01,2,635,https://huggingface.co/mlx-community/Nemotron-3-Diarization
-audio-cpp/Nemotron-3-Diarization-GGUF,audio-cpp,voice-activity-detection,,,openmdw-1.1,nvidia/Nemotron-3-Diarization,,2026-09-23,2026-10-01,16,16204,https://huggingface.co/audio-cpp/Nemotron-3-Diarization-GGUF
+audio-cpp/Nemotron-3-Diarization-GGUF,audio-cpp,voice-activity-detection,,,openmdw-1.1,nvidia/Nemotron-3-Diarization,,2026-09-23,2026-10-01,17,17690,https://huggingface.co/audio-cpp/Nemotron-3-Diarization-GGUF
 OzzyGT/YuE2-Modular,OzzyGT,text-to-audio,diffusers,,apache-2.0,m-a-p/YuE2-3B,en zh,2026-09-23,2026-10-01,3,8,https://huggingface.co/OzzyGT/YuE2-Modular
-KlangAI/pianissimo-sv,KlangAI,automatic-speech-recognition,nemo,,cc-by-4.0,nvidia/parakeet-tdt-0.6b-v3,sv,2026-09-23,2026-10-01,26,2768,https://huggingface.co/KlangAI/pianissimo-sv
-moondream/parakeet-ultra,moondream,automatic-speech-recognition,,0.63,cc-by-4.0,,en de fr es it pt ru uk hr sl lv lt et fi sv da nl pl cs sk hu ro bg el mt,2026-09-22,2026-10-01,67,8536,https://huggingface.co/moondream/parakeet-ultra
+KlangAI/pianissimo-sv,KlangAI,automatic-speech-recognition,nemo,,cc-by-4.0,nvidia/parakeet-tdt-0.6b-v3,sv,2026-09-23,2026-10-01,28,2789,https://huggingface.co/KlangAI/pianissimo-sv
+moondream/parakeet-ultra,moondream,automatic-speech-recognition,,0.63,cc-by-4.0,,en de fr es it pt ru uk hr sl lv lt et fi sv da nl pl cs sk hu ro bg el mt,2026-09-22,2026-10-01,72,8864,https://huggingface.co/moondream/parakeet-ultra
 mlx-community/Confucius4-R2T2-8bit,mlx-community,automatic-speech-recognition,mlx,2.04,other,netease-youdao/Confucius4-R2T2,zh en,2026-09-22,2026-10-01,4,263,https://huggingface.co/mlx-community/Confucius4-R2T2-8bit
-Edge0/Audio8-ASR-Infinite,Edge0,automatic-speech-recognition,transformers,4.09,apache-2.0,,zh en,2026-09-21,2026-10-01,2427,40004,https://huggingface.co/Edge0/Audio8-ASR-Infinite
+Edge0/Audio8-ASR-Infinite,Edge0,automatic-speech-recognition,transformers,4.09,apache-2.0,,zh en,2026-09-21,2026-10-01,2427,40088,https://huggingface.co/Edge0/Audio8-ASR-Infinite
 saki22/koko-tts,saki22,text-to-speech,,0.02,apache-2.0,,en,2026-09-20,2026-10-01,11,410,https://huggingface.co/saki22/koko-tts
-netease-youdao/Confucius4-R2T2-GGUF,netease-youdao,automatic-speech-recognition,,,other,netease-youdao/Confucius4-R2T2,zh,2026-09-20,2026-10-01,25,7979,https://huggingface.co/netease-youdao/Confucius4-R2T2-GGUF
+netease-youdao/Confucius4-R2T2-GGUF,netease-youdao,automatic-speech-recognition,,,other,netease-youdao/Confucius4-R2T2,zh,2026-09-20,2026-10-01,25,8422,https://huggingface.co/netease-youdao/Confucius4-R2T2-GGUF
 audio-cpp/AuK-Base-and-Flash-GGUF,audio-cpp,text-to-speech,,,mit,tencent/AuK,,2026-09-20,2026-10-01,2,74518,https://huggingface.co/audio-cpp/AuK-Base-and-Flash-GGUF
-gentleman101/bhojpuri-f5-tts,gentleman101,text-to-speech,f5-tts,,cc-by-4.0,ai4bharat/IndicF5,,2026-09-19,2026-10-01,3,717,https://huggingface.co/gentleman101/bhojpuri-f5-tts
+gentleman101/bhojpuri-f5-tts,gentleman101,text-to-speech,f5-tts,,cc-by-4.0,ai4bharat/IndicF5,,2026-09-19,2026-10-01,3,721,https://huggingface.co/gentleman101/bhojpuri-f5-tts
 becausereasons/yue2-qwwl-qawwali-sufi-tabla,becausereasons,text-to-audio,,,cc-by-nc-4.0,Comfy-Org/YuE2,ur pa,2026-09-19,2026-10-01,7,0,https://huggingface.co/becausereasons/yue2-qwwl-qawwali-sufi-tabla
 becausereasons/yue2-blgr-bulgarian-voices,becausereasons,text-to-audio,,,cc-by-nc-4.0,Comfy-Org/YuE2,bg,2026-09-19,2026-10-01,4,0,https://huggingface.co/becausereasons/yue2-blgr-bulgarian-voices
-moondream/parakeet-redux,moondream,automatic-speech-recognition,,0.15,cc-by-4.0,,en de fr es it pt ru uk hr sl lv lt et fi sv da nl pl cs sk hu ro bg el mt,2026-09-18,2026-10-01,214,8978,https://huggingface.co/moondream/parakeet-redux
+moondream/parakeet-redux,moondream,automatic-speech-recognition,,0.15,cc-by-4.0,,en de fr es it pt ru uk hr sl lv lt et fi sv da nl pl cs sk hu ro bg el mt,2026-09-18,2026-10-01,232,10187,https://huggingface.co/moondream/parakeet-redux
 becausereasons/yue2-cnzn-canzone-italiana,becausereasons,text-to-audio,,,cc-by-nc-4.0,Comfy-Org/YuE2,it,2026-09-18,2026-10-01,3,0,https://huggingface.co/becausereasons/yue2-cnzn-canzone-italiana
 becausereasons/yue2-chnsn-chanson-francaise,becausereasons,text-to-audio,,,cc-by-nc-4.0,Comfy-Org/YuE2,fr,2026-09-18,2026-10-01,7,0,https://huggingface.co/becausereasons/yue2-chnsn-chanson-francaise
 ntc-ai/yue2-particle-sliders,ntc-ai,text-to-audio,,,cc-by-nc-4.0,m-a-p/YuE2-3B,en,2026-09-17,2026-10-01,16,0,https://huggingface.co/ntc-ai/yue2-particle-sliders
 becausereasons/yue2-mltnt-militant-reggae,becausereasons,text-to-audio,,,cc-by-nc-4.0,Comfy-Org/YuE2,en,2026-09-17,2026-10-01,24,0,https://huggingface.co/becausereasons/yue2-mltnt-militant-reggae
 ai-toolkit/melbandroformer,ai-toolkit,audio-to-audio,,,mit,,,2026-09-17,2026-10-01,6,0,https://huggingface.co/ai-toolkit/melbandroformer
-Nimaone/pocket-tts-farsi-v2-onnx,Nimaone,text-to-speech,onnx,,cc-by-nc-4.0,mehdi-hf/pocket-tts-farsi-v2,fa,2026-09-16,2026-10-01,13,0,https://huggingface.co/Nimaone/pocket-tts-farsi-v2-onnx
+Nimaone/pocket-tts-farsi-v2-onnx,Nimaone,text-to-speech,onnx,,cc-by-nc-4.0,mehdi-hf/pocket-tts-farsi-v2,fa,2026-09-16,2026-10-01,14,0,https://huggingface.co/Nimaone/pocket-tts-farsi-v2-onnx
 Quran-Lab/sawt-v4,Quran-Lab,audio-to-audio,pytorch,,other,,en ar es fr ja zh ca eu gl ta te kn ml mr gu ne jv su km my ha yo ee tw ki ln lg ny,2026-09-15,2026-10-01,8,42,https://huggingface.co/Quran-Lab/sawt-v4
 cloud0day3/antalia-1,cloud0day3,text-to-speech,antalia,0.30,openrail,cloud0day3/antalia-1-foundation,tr,2026-09-14,2026-10-01,9,265,https://huggingface.co/cloud0day3/antalia-1
-HeartMuLa/MuLaCover,HeartMuLa,audio-to-audio,mulacover,4.37,cc-by-nc-4.0,,,2026-09-14,2026-10-01,45,1027,https://huggingface.co/HeartMuLa/MuLaCover
-AntResearch/AntSpeaker,AntResearch,audio-classification,mect,,cc-by-nc-sa-4.0,,en,2026-09-14,2026-10-01,16,738,https://huggingface.co/AntResearch/AntSpeaker
+HeartMuLa/MuLaCover,HeartMuLa,audio-to-audio,mulacover,4.37,cc-by-nc-4.0,,,2026-09-14,2026-10-01,45,1065,https://huggingface.co/HeartMuLa/MuLaCover
+AntResearch/AntSpeaker,AntResearch,audio-classification,mect,,cc-by-nc-sa-4.0,,en,2026-09-14,2026-10-01,16,748,https://huggingface.co/AntResearch/AntSpeaker
 ahmadw/YuE2-3B-MLX,ahmadw,text-to-audio,mlx,,cc-by-nc-4.0,m-a-p/YuE2-3B,en zh,2026-09-11,2026-10-01,6,0,https://huggingface.co/ahmadw/YuE2-3B-MLX
-netease-youdao/Confucius4-R2T2,netease-youdao,automatic-speech-recognition,,2.04,other,Qwen/Qwen3-ASR-1.7B,,2026-09-10,2026-10-01,516,16408,https://huggingface.co/netease-youdao/Confucius4-R2T2
-audio-cpp/Yue2-3B-GGUF,audio-cpp,text-to-audio,audio.cpp,,cc-by-nc-4.0,m-a-p/YuE2-3B,,2026-09-10,2026-10-01,89,162134,https://huggingface.co/audio-cpp/Yue2-3B-GGUF
-XPENG-AI/X-AuT,XPENG-AI,automatic-speech-recognition,,0.90,cc-by-nc-4.0,Qwen/Qwen3-ASR-0.6B,zh en,2026-09-10,2026-10-01,8,221,https://huggingface.co/XPENG-AI/X-AuT
-oruk/orukeet,oruk,automatic-speech-recognition,nemo,0.63,cc-by-sa-4.0,nvidia/parakeet-tdt-0.6b-v3,bg hr cs da nl en et fi fr de el hu it lv lt mt pl pt ro ru sk sl es sv uk,2026-09-09,2026-10-01,96,35787,https://huggingface.co/oruk/orukeet
-m-a-p/YuE2-3B,m-a-p,text-to-audio,,3.63,cc-by-nc-4.0,,zh en,2026-09-09,2026-10-01,1070,33304,https://huggingface.co/m-a-p/YuE2-3B
-oddadmix/Kokoro-7M-Distill,oddadmix,text-to-speech,,,apache-2.0,,en,2026-09-08,2026-10-01,34,739,https://huggingface.co/oddadmix/Kokoro-7M-Distill
-AlicanKiraz0/Kizagan-TTS-v1.0,AlicanKiraz0,text-to-speech,voxcpm,2.29,apache-2.0,openbmb/VoxCPM2,tr,2026-09-07,2026-10-01,64,1391,https://huggingface.co/AlicanKiraz0/Kizagan-TTS-v1.0
+netease-youdao/Confucius4-R2T2,netease-youdao,automatic-speech-recognition,,2.04,other,Qwen/Qwen3-ASR-1.7B,,2026-09-10,2026-10-01,521,17539,https://huggingface.co/netease-youdao/Confucius4-R2T2
+audio-cpp/Yue2-3B-GGUF,audio-cpp,text-to-audio,audio.cpp,,cc-by-nc-4.0,m-a-p/YuE2-3B,,2026-09-10,2026-10-01,90,166346,https://huggingface.co/audio-cpp/Yue2-3B-GGUF
+XPENG-AI/X-AuT,XPENG-AI,automatic-speech-recognition,,0.90,cc-by-nc-4.0,Qwen/Qwen3-ASR-0.6B,zh en,2026-09-10,2026-10-01,8,229,https://huggingface.co/XPENG-AI/X-AuT
+oruk/orukeet,oruk,automatic-speech-recognition,nemo,0.63,cc-by-sa-4.0,nvidia/parakeet-tdt-0.6b-v3,bg hr cs da nl en et fi fr de el hu it lv lt mt pl pt ro ru sk sl es sv uk,2026-09-09,2026-10-01,97,36721,https://huggingface.co/oruk/orukeet
+m-a-p/YuE2-3B,m-a-p,text-to-audio,,3.63,cc-by-nc-4.0,,zh en,2026-09-09,2026-10-01,1076,34140,https://huggingface.co/m-a-p/YuE2-3B
+oddadmix/Kokoro-7M-Distill,oddadmix,text-to-speech,,,apache-2.0,,en,2026-09-08,2026-10-01,34,762,https://huggingface.co/oddadmix/Kokoro-7M-Distill
+AlicanKiraz0/Kizagan-TTS-v1.0,AlicanKiraz0,text-to-speech,voxcpm,2.29,apache-2.0,openbmb/VoxCPM2,tr,2026-09-07,2026-10-01,64,1426,https://huggingface.co/AlicanKiraz0/Kizagan-TTS-v1.0
 auriankelen/matpac_music,auriankelen,audio-classification,transformers,0.09,apache-2.0,,,2026-09-04,2026-10-01,1,2451,https://huggingface.co/auriankelen/matpac_music
 microsoft/VibeVoice-ASR-Streaming-7B,microsoft,automatic-speech-recognition,transformers,8.67,mit,,en zh es pt de ja ko fr ru it,2026-09-02,2026-10-01,250,7004,https://huggingface.co/microsoft/VibeVoice-ASR-Streaming-7B
 microsoft/VibeVoice-ASR-Streaming-1.5B,microsoft,automatic-speech-recognition,transformers,2.81,mit,,en zh es pt de ja ko fr ru it,2026-09-02,2026-10-01,58,12122,https://huggingface.co/microsoft/VibeVoice-ASR-Streaming-1.5B
