@@ -11,26 +11,26 @@ Every morning a GitHub Actions workflow queries the Hub, filters out noise, adds
 ## Recent additions
 
 <!-- WATCHER_START -->
-_Last updated 2026-10-18 · catalog size: Vision: 218 · Speech: 151 · LLM Indonesia: 241 · [today's report](reports/2026/10/2026-10-18.md)_
+_Last updated 2026-10-19 · catalog size: Vision: 227 · Speech: 157 · LLM Indonesia: 245 · [today's report](reports/2026/10/2026-10-19.md)_
 
 ### Vision
 
 New computer-vision and vision-language models that are already getting attention.
 
-Most-liked of the 57 added in the last 7 days:
+Most-liked of the 59 added in the last 7 days:
 
 | Model | Task | Size | License | ❤️ | ⬇️ | Created |
 |-------|------|-----:|---------|---:|---:|---------|
-| [deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) | image-text-to-text | 763.21B | mit | 1.1k | 0 | 2026-10-17 |
-| [openbmb/MiniCPM-V-4.7-35B-A3B](https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B) | image-text-to-text | 35.21B | apache-2.0 | 908 | 36.3k | 2026-10-07 |
-| [openbmb/MiniCPM-V-4.7-1B](https://huggingface.co/openbmb/MiniCPM-V-4.7-1B) | image-text-to-text | 1.55B | apache-2.0 | 379 | 15.2k | 2026-10-06 |
-| [nvidia/Qwen3.8-Flash-Next-FP4-Local](https://huggingface.co/nvidia/Qwen3.8-Flash-Next-FP4-Local) | image-text-to-text | 96.49B | other | 190 | 3.1k | 2026-10-08 |
-| [openbmb/MiniCPM-V-4.7-35B-A3B-gguf](https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B-gguf) | image-text-to-text | – | apache-2.0 | 161 | 143.6k | 2026-10-06 |
-| [DavidAU/Qwen3.8-27B-Turbo-Brilliance-50X-Reasoning-Instruct-NEO-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.8-27B-Turbo-Brilliance-50X-Reasoning-Instruct-NEO-MAX-MTP-GGUF) | image-text-to-text | – | apache-2.0 | 155 | 159.5k | 2026-09-29 |
-| [nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-NVFP4](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-NVFP4) | image-text-to-text | 65.77B | other | 135 | 5.7k | 2026-10-12 |
-| [nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB) | image-text-to-text | 22.37B | other | 119 | 4.6k | 2026-10-07 |
-| [nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB-GGUF](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB-GGUF) | image-text-to-text | – | other | 91 | 51.6k | 2026-10-07 |
-| [openbmb/MiniCPM-V-4.7-1B-gguf](https://huggingface.co/openbmb/MiniCPM-V-4.7-1B-gguf) | image-text-to-text | – | apache-2.0 | 85 | 40.2k | 2026-10-06 |
+| [deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) | image-text-to-text | 763.21B | mit | 1.4k | 10.2k | 2026-10-17 |
+| [openbmb/MiniCPM-V-4.7-35B-A3B](https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B) | image-text-to-text | 35.21B | apache-2.0 | 1.0k | 57.9k | 2026-10-07 |
+| [openbmb/MiniCPM-V-4.7-1B](https://huggingface.co/openbmb/MiniCPM-V-4.7-1B) | image-text-to-text | 1.55B | apache-2.0 | 390 | 22.7k | 2026-10-06 |
+| [nvidia/Qwen3.8-Flash-Next-FP4-Local](https://huggingface.co/nvidia/Qwen3.8-Flash-Next-FP4-Local) | image-text-to-text | 96.49B | other | 220 | 4.9k | 2026-10-08 |
+| [openbmb/MiniCPM-V-4.7-35B-A3B-gguf](https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B-gguf) | image-text-to-text | – | apache-2.0 | 164 | 160.2k | 2026-10-06 |
+| [nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-NVFP4](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-NVFP4) | image-text-to-text | 65.77B | other | 160 | 7.6k | 2026-10-12 |
+| [nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB) | image-text-to-text | 22.37B | other | 124 | 5.4k | 2026-10-07 |
+| [prism-ml/Ternary-Bonsai-2-9B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-2-9B-gguf) | image-text-to-text | – | apache-2.0 | 96 | 67.4k | 2026-09-23 |
+| [nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB-GGUF](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB-GGUF) | image-text-to-text | – | other | 96 | 63.0k | 2026-10-07 |
+| [openbmb/MiniCPM-V-4.7-1B-gguf](https://huggingface.co/openbmb/MiniCPM-V-4.7-1B-gguf) | image-text-to-text | – | apache-2.0 | 88 | 47.4k | 2026-10-06 |
 
 [Full catalog →](catalog/vision.csv)
 
@@ -38,20 +38,20 @@ Most-liked of the 57 added in the last 7 days:
 
 New speech recognition, text-to-speech and audio models that are already getting attention.
 
-Most-liked of the 42 added in the last 7 days:
+Most-liked of the 45 added in the last 7 days:
 
 | Model | Task | Size | License | ❤️ | ⬇️ | Created |
 |-------|------|-----:|---------|---:|---:|---------|
-| [fishaudio/drama-3](https://huggingface.co/fishaudio/drama-3) | text-to-speech | 35.9B | other | 633 | 8.2k | 2026-10-01 |
-| [nineninesix/tyger](https://huggingface.co/nineninesix/tyger) | automatic-speech-recognition | 0.65B | openmdw-1.1 | 53 | 113 | 2026-10-12 |
-| [qnguyen3/QUAN-Transcribe-1.0](https://huggingface.co/qnguyen3/QUAN-Transcribe-1.0) | automatic-speech-recognition | 0.1B | gemma | 49 | 388 | 2026-10-14 |
-| [Jmica/Drama-3-GGUF](https://huggingface.co/Jmica/Drama-3-GGUF) | text-to-speech | – | other | 21 | 160.7k | 2026-10-13 |
-| [KaanAydinli/Duyu-small](https://huggingface.co/KaanAydinli/Duyu-small) | automatic-speech-recognition | – | apache-2.0 | 19 | 157 | 2026-10-11 |
-| [PedroMarinhoDev/Drama-3-ComfyUI](https://huggingface.co/PedroMarinhoDev/Drama-3-ComfyUI) | text-to-speech | – | other | 19 | 0 | 2026-10-14 |
-| [arbazsiddiqui/voxlock](https://huggingface.co/arbazsiddiqui/voxlock) | audio-to-audio | 0.03B | apache-2.0 | 16 | 269 | 2026-10-11 |
-| [fishaudio/drama-3-int4](https://huggingface.co/fishaudio/drama-3-int4) | text-to-speech | 6.86B | other | 14 | 1.6k | 2026-10-14 |
-| [akhaliq/drama-3-int4](https://huggingface.co/akhaliq/drama-3-int4) | text-to-speech | 6.86B | other | 14 | 533 | 2026-10-13 |
-| [TeamUNIVA/qwen3_asr_1.7b_ko](https://huggingface.co/TeamUNIVA/qwen3_asr_1.7b_ko) | automatic-speech-recognition | 2.35B | apache-2.0 | 13 | 505 | 2026-10-12 |
+| [fishaudio/drama-3](https://huggingface.co/fishaudio/drama-3) | text-to-speech | 35.9B | other | 711 | 9.6k | 2026-10-01 |
+| [nineninesix/tyger](https://huggingface.co/nineninesix/tyger) | automatic-speech-recognition | 0.65B | openmdw-1.1 | 67 | 241 | 2026-10-12 |
+| [qnguyen3/QUAN-Transcribe-1.0](https://huggingface.co/qnguyen3/QUAN-Transcribe-1.0) | automatic-speech-recognition | 0.1B | gemma | 51 | 444 | 2026-10-14 |
+| [PedroMarinhoDev/Drama-3-ComfyUI](https://huggingface.co/PedroMarinhoDev/Drama-3-ComfyUI) | text-to-speech | – | other | 24 | 0 | 2026-10-14 |
+| [Jmica/Drama-3-GGUF](https://huggingface.co/Jmica/Drama-3-GGUF) | text-to-speech | – | other | 23 | 164.8k | 2026-10-13 |
+| [KaanAydinli/Duyu-small](https://huggingface.co/KaanAydinli/Duyu-small) | automatic-speech-recognition | – | apache-2.0 | 21 | 176 | 2026-10-11 |
+| [arbazsiddiqui/voxlock](https://huggingface.co/arbazsiddiqui/voxlock) | audio-to-audio | 0.03B | apache-2.0 | 19 | 320 | 2026-10-11 |
+| [fishaudio/drama-3-int4](https://huggingface.co/fishaudio/drama-3-int4) | text-to-speech | 6.86B | other | 16 | 2.0k | 2026-10-14 |
+| [TeamUNIVA/qwen3_asr_1.7b_ko](https://huggingface.co/TeamUNIVA/qwen3_asr_1.7b_ko) | automatic-speech-recognition | 2.35B | apache-2.0 | 14 | 642 | 2026-10-12 |
+| [akhaliq/drama-3-int4](https://huggingface.co/akhaliq/drama-3-int4) | text-to-speech | 6.86B | other | 14 | 590 | 2026-10-13 |
 
 [Full catalog →](catalog/speech.csv)
 
@@ -59,20 +59,20 @@ Most-liked of the 42 added in the last 7 days:
 
 Every new language model tagged with Indonesian (`id`), including base, instruct, GGUF and LoRA releases.
 
-Most-liked of the 95 added in the last 7 days:
+Most-liked of the 91 added in the last 7 days:
 
 | Model | Task | Size | License | ❤️ | ⬇️ | Created |
 |-------|------|-----:|---------|---:|---:|---------|
-| [LiquidAI/LFM2.5-24B-A2B](https://huggingface.co/LiquidAI/LFM2.5-24B-A2B) | text-generation | 23.97B | other | 450 | 11.9k | 2026-10-12 |
-| [DavidAU/Qwen3.8-27B-Turbo-Brilliance-50X-Reasoning-Instruct-NEO-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.8-27B-Turbo-Brilliance-50X-Reasoning-Instruct-NEO-MAX-MTP-GGUF) | image-text-to-text | – | apache-2.0 | 121 | 14.8k | 2026-09-29 |
-| [unsloth/LFM2.5-24B-A2B-GGUF](https://huggingface.co/unsloth/LFM2.5-24B-A2B-GGUF) | text-generation | – | other | 71 | 35.8k | 2026-10-13 |
-| [interfaze-ai/interfaze-1-lite](https://huggingface.co/interfaze-ai/interfaze-1-lite) | image-text-to-text | – | other | 67 | 297 | 2026-10-03 |
-| [LiquidAI/LFM2.5-24B-A2B-Base](https://huggingface.co/LiquidAI/LFM2.5-24B-A2B-Base) | text-generation | 23.97B | other | 36 | 561 | 2026-10-09 |
-| [DavidAU/Qwen3.8-Flash-Next-Abliterated-Uncensored-Turbo-Brilliance-50x-Reasoning-Instruct-GSQ-RCO-GGUF](https://huggingface.co/DavidAU/Qwen3.8-Flash-Next-Abliterated-Uncensored-Turbo-Brilliance-50x-Reasoning-Instruct-GSQ-RCO-GGUF) | image-text-to-text | – | apache-2.0 | 29 | 2.6k | 2026-10-15 |
-| [DavidAU/LFM2.5-24B-A2B-Turbo-Brilliance-50X-NEO-MAX-Imatrix-GGUF](https://huggingface.co/DavidAU/LFM2.5-24B-A2B-Turbo-Brilliance-50X-NEO-MAX-Imatrix-GGUF) | text-generation | – | other | 27 | 2.2k | 2026-10-13 |
-| [DavidAU/Qwen3.8-Flash-Next-Turbo-Brilliance-50x-Reasoning-Instruct-GSQ-RCO-GGUF](https://huggingface.co/DavidAU/Qwen3.8-Flash-Next-Turbo-Brilliance-50x-Reasoning-Instruct-GSQ-RCO-GGUF) | image-text-to-text | – | apache-2.0 | 21 | 475 | 2026-10-13 |
+| [LiquidAI/LFM2.5-24B-A2B](https://huggingface.co/LiquidAI/LFM2.5-24B-A2B) | text-generation | 23.97B | other | 479 | 13.0k | 2026-10-12 |
+| [unsloth/LFM2.5-24B-A2B-GGUF](https://huggingface.co/unsloth/LFM2.5-24B-A2B-GGUF) | text-generation | – | other | 82 | 40.3k | 2026-10-13 |
+| [DavidAU/Qwen3.8-Flash-Next-Abliterated-Uncensored-Turbo-Brilliance-50x-Reasoning-Instruct-GSQ-RCO-GGUF](https://huggingface.co/DavidAU/Qwen3.8-Flash-Next-Abliterated-Uncensored-Turbo-Brilliance-50x-Reasoning-Instruct-GSQ-RCO-GGUF) | image-text-to-text | – | apache-2.0 | 37 | 9.6k | 2026-10-15 |
+| [LiquidAI/LFM2.5-24B-A2B-Base](https://huggingface.co/LiquidAI/LFM2.5-24B-A2B-Base) | text-generation | 23.97B | other | 36 | 692 | 2026-10-09 |
+| [DavidAU/LFM2.5-24B-A2B-Turbo-Brilliance-50X-NEO-MAX-Imatrix-GGUF](https://huggingface.co/DavidAU/LFM2.5-24B-A2B-Turbo-Brilliance-50X-NEO-MAX-Imatrix-GGUF) | text-generation | – | other | 34 | 3.3k | 2026-10-13 |
+| [DavidAU/Qwen3.8-Flash-Next-Turbo-Brilliance-50x-Reasoning-Instruct-GSQ-RCO-GGUF](https://huggingface.co/DavidAU/Qwen3.8-Flash-Next-Turbo-Brilliance-50x-Reasoning-Instruct-GSQ-RCO-GGUF) | image-text-to-text | – | apache-2.0 | 23 | 6.4k | 2026-10-13 |
+| [DavidAU/Qwen3.8-27B-Jumbo-Fusion-IQ-747-900-Turbo-Brilliance-50X-Reasoning-Instruct-NEO-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.8-27B-Jumbo-Fusion-IQ-747-900-Turbo-Brilliance-50X-Reasoning-Instruct-NEO-MAX-MTP-GGUF) | image-text-to-text | – | apache-2.0 | 10 | 0 | 2026-10-18 |
 | [DavidAU/Qwen3.8-Flash-Next-Turbo-Brilliance-50x-Reasoning-Instruct-GSQ-RCO-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.8-Flash-Next-Turbo-Brilliance-50x-Reasoning-Instruct-GSQ-RCO-MTP-GGUF) | image-text-to-text | – | apache-2.0 | 10 | 0 | 2026-10-13 |
-| [unsloth/LFM2.5-24B-A2B](https://huggingface.co/unsloth/LFM2.5-24B-A2B) | text-generation | 23.97B | other | 7 | 1.1k | 2026-10-13 |
+| [unsloth/LFM2.5-24B-A2B](https://huggingface.co/unsloth/LFM2.5-24B-A2B) | text-generation | 23.97B | other | 7 | 1.3k | 2026-10-13 |
+| [IsValorum/LFM2.5-24B-A2B-APEX-I-MiniPlus-V2.1-GGUF](https://huggingface.co/IsValorum/LFM2.5-24B-A2B-APEX-I-MiniPlus-V2.1-GGUF) | text-generation | – | other | 5 | 1.1k | 2026-10-13 |
 
 [Full catalog →](catalog/llm-indonesia.csv)
 
