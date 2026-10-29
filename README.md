@@ -11,26 +11,26 @@ Every morning a GitHub Actions workflow queries the Hub, filters out noise, adds
 ## Recent additions
 
 <!-- WATCHER_START -->
-_Last updated 2026-10-28 · catalog size: Vision: 306 · Speech: 241 · LLM Indonesia: 371 · [today's report](reports/2026/10/2026-10-28.md)_
+_Last updated 2026-10-29 · catalog size: Vision: 319 · Speech: 249 · LLM Indonesia: 397 · [today's report](reports/2026/10/2026-10-29.md)_
 
 ### Vision
 
 New computer-vision and vision-language models that are already getting attention.
 
-Most-liked of the 55 added in the last 7 days:
+Most-liked of the 58 added in the last 7 days:
 
 | Model | Task | Size | License | ❤️ | ⬇️ | Created |
 |-------|------|-----:|---------|---:|---:|---------|
-| [MiniMaxAI/MiniMax-M3.1-Flash](https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash) | image-text-to-text | 220.49B | other | 428 | 11.1k | 2026-10-17 |
-| [baidu/Unlimited-OCR-2](https://huggingface.co/baidu/Unlimited-OCR-2) | image-text-to-text | 3.34B | mit | 279 | 513 | 2026-10-26 |
-| [openbmb/MiniCPM-OCR-1.0](https://huggingface.co/openbmb/MiniCPM-OCR-1.0) | image-text-to-text | 1.3B | apache-2.0 | 156 | 9 | 2026-10-21 |
-| [LiquidAI/LFM3-VL-2B](https://huggingface.co/LiquidAI/LFM3-VL-2B) | image-text-to-text | 1.92B | other | 92 | 255 | 2026-10-19 |
-| [ATH-MaaS/OvisOCR3](https://huggingface.co/ATH-MaaS/OvisOCR3) | image-text-to-text | 0.85B | apache-2.0 | 79 | 1.6k | 2026-10-21 |
-| [tencent/WeVisOne-VL-4B](https://huggingface.co/tencent/WeVisOne-VL-4B) | image-text-to-text | 4.83B | apache-2.0 | 71 | 3.8k | 2026-10-22 |
-| [LiquidAI/d1-2B](https://huggingface.co/LiquidAI/d1-2B) | image-text-to-text | 1.92B | other | 61 | 44 | 2026-10-24 |
-| [fastino/GLiDE](https://huggingface.co/fastino/GLiDE) | image-text-to-text | 26.09B | other | 60 | 704 | 2026-10-19 |
-| [THUSI-Lab/GameScaling](https://huggingface.co/THUSI-Lab/GameScaling) | image-text-to-text | – | apache-2.0 | 57 | 274 | 2026-10-10 |
-| [tencent/WeVisOne-VL-2B](https://huggingface.co/tencent/WeVisOne-VL-2B) | image-text-to-text | 2.44B | apache-2.0 | 52 | 3.1k | 2026-10-22 |
+| [MiniMaxAI/MiniMax-M3.1-Flash](https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash) | image-text-to-text | 220.49B | other | 470 | 13.2k | 2026-10-17 |
+| [baidu/Unlimited-OCR-2](https://huggingface.co/baidu/Unlimited-OCR-2) | image-text-to-text | 3.34B | mit | 350 | 8.4k | 2026-10-26 |
+| [openbmb/MiniCPM-OCR-1.0](https://huggingface.co/openbmb/MiniCPM-OCR-1.0) | image-text-to-text | 1.3B | apache-2.0 | 298 | 791 | 2026-10-21 |
+| [LiquidAI/LFM3-VL-2B](https://huggingface.co/LiquidAI/LFM3-VL-2B) | image-text-to-text | 1.92B | other | 141 | 1.6k | 2026-10-19 |
+| [LiquidAI/d1-2B](https://huggingface.co/LiquidAI/d1-2B) | image-text-to-text | 1.92B | other | 83 | 591 | 2026-10-24 |
+| [tencent/WeVisOne-VL-4B](https://huggingface.co/tencent/WeVisOne-VL-4B) | image-text-to-text | 4.83B | apache-2.0 | 81 | 4.7k | 2026-10-22 |
+| [fastino/GLiDE](https://huggingface.co/fastino/GLiDE) | image-text-to-text | 26.09B | other | 61 | 854 | 2026-10-19 |
+| [openbmb/MiniCPM-OCR-Jev](https://huggingface.co/openbmb/MiniCPM-OCR-Jev) | image-text-to-text | 2.21B | apache-2.0 | 60 | 581 | 2026-10-23 |
+| [tencent/WeVisOne-VL-2B](https://huggingface.co/tencent/WeVisOne-VL-2B) | image-text-to-text | 2.44B | apache-2.0 | 58 | 3.9k | 2026-10-22 |
+| [THUSI-Lab/GameScaling](https://huggingface.co/THUSI-Lab/GameScaling) | image-text-to-text | – | apache-2.0 | 57 | 339 | 2026-10-10 |
 
 [Full catalog →](catalog/vision.csv)
 
@@ -38,20 +38,20 @@ Most-liked of the 55 added in the last 7 days:
 
 New speech recognition, text-to-speech and audio models that are already getting attention.
 
-Most-liked of the 58 added in the last 7 days:
+Most-liked of the 54 added in the last 7 days:
 
 | Model | Task | Size | License | ❤️ | ⬇️ | Created |
 |-------|------|-----:|---------|---:|---:|---------|
-| [maya-research/maya2-native](https://huggingface.co/maya-research/maya2-native) | text-to-speech | 2.5B | apache-2.0 | 86 | 0 | 2026-10-26 |
-| [ConwayResearch/Underdog-Bark-3.0](https://huggingface.co/ConwayResearch/Underdog-Bark-3.0) | automatic-speech-recognition | – | cc-by-4.0 | 77 | 301 | 2026-10-15 |
-| [ibm-granite/granite-speech-5.0-2b](https://huggingface.co/ibm-granite/granite-speech-5.0-2b) | automatic-speech-recognition | 2.31B | apache-2.0 | 53 | 3.5k | 2026-10-07 |
-| [LiquidAI/d1-Omni-2B](https://huggingface.co/LiquidAI/d1-Omni-2B) | audio-text-to-text | 2.17B | other | 50 | 36 | 2026-10-24 |
-| [FermionResearch/Phonon-2.5](https://huggingface.co/FermionResearch/Phonon-2.5) | automatic-speech-recognition | – | cc-by-4.0 | 39 | 651 | 2026-10-22 |
+| [nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B) | automatic-speech-recognition | 33.7B | other | 255 | 338 | 2026-10-07 |
+| [maya-research/maya2-native](https://huggingface.co/maya-research/maya2-native) | text-to-speech | 2.5B | apache-2.0 | 108 | 344 | 2026-10-26 |
+| [LiquidAI/d1-Omni-2B](https://huggingface.co/LiquidAI/d1-Omni-2B) | audio-text-to-text | 2.17B | other | 69 | 252 | 2026-10-24 |
+| [FermionResearch/Phonon-2.5](https://huggingface.co/FermionResearch/Phonon-2.5) | automatic-speech-recognition | – | cc-by-4.0 | 41 | 725 | 2026-10-22 |
 | [alicangunduz/nefes-0.5](https://huggingface.co/alicangunduz/nefes-0.5) | text-to-speech | – | apache-2.0 | 31 | 0 | 2026-10-21 |
-| [Edge0/Audio8-TTS-Realistic-0.6b](https://huggingface.co/Edge0/Audio8-TTS-Realistic-0.6b) | text-to-speech | 0.6B | apache-2.0 | 23 | 6 | 2026-10-14 |
-| [destined/hurston-1](https://huggingface.co/destined/hurston-1) | text-to-speech | 3.3B | apache-2.0 | 22 | 33 | 2026-10-15 |
-| [erayyapagci/balbal-v1](https://huggingface.co/erayyapagci/balbal-v1) | automatic-speech-recognition | – | cc-by-nc-4.0 | 19 | 357 | 2026-10-21 |
-| [AuroraAI-Research/AuroraTTS-100K](https://huggingface.co/AuroraAI-Research/AuroraTTS-100K) | text-to-speech | 0B | apache-2.0 | 19 | 332 | 2026-10-22 |
+| [Edge0/Audio8-TTS-Realistic-0.6b](https://huggingface.co/Edge0/Audio8-TTS-Realistic-0.6b) | text-to-speech | 0.6B | apache-2.0 | 26 | 205 | 2026-10-14 |
+| [AuroraAI-Research/AuroraTTS-100K](https://huggingface.co/AuroraAI-Research/AuroraTTS-100K) | text-to-speech | 0B | apache-2.0 | 20 | 357 | 2026-10-22 |
+| [FermionResearch/Phonon-2.5-English](https://huggingface.co/FermionResearch/Phonon-2.5-English) | automatic-speech-recognition | – | cc-by-4.0 | 18 | 538 | 2026-10-22 |
+| [Aratako/Drama-3-Japanese](https://huggingface.co/Aratako/Drama-3-Japanese) | text-to-speech | 35.9B | other | 17 | 231 | 2026-10-22 |
+| [LiquidAI/d1-Omni-2B-GGUF](https://huggingface.co/LiquidAI/d1-Omni-2B-GGUF) | audio-text-to-text | – | other | 14 | 750 | 2026-10-27 |
 
 [Full catalog →](catalog/speech.csv)
 
@@ -59,20 +59,20 @@ Most-liked of the 58 added in the last 7 days:
 
 Every new language model tagged with Indonesian (`id`), including base, instruct, GGUF and LoRA releases.
 
-Most-liked of the 111 added in the last 7 days:
+Most-liked of the 128 added in the last 7 days:
 
 | Model | Task | Size | License | ❤️ | ⬇️ | Created |
 |-------|------|-----:|---------|---:|---:|---------|
-| [LiquidAI/LFM3-1.7B](https://huggingface.co/LiquidAI/LFM3-1.7B) | text-generation | 1.73B | other | 233 | 6.3k | 2026-10-23 |
-| [unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF](https://huggingface.co/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF) | text-generation | – | other | 135 | 65.0k | 2026-10-23 |
-| [LiquidAI/LFM3-VL-2B](https://huggingface.co/LiquidAI/LFM3-VL-2B) | image-text-to-text | 1.92B | other | 92 | 255 | 2026-10-19 |
-| [LiquidAI/LFM3-1.7B-GGUF](https://huggingface.co/LiquidAI/LFM3-1.7B-GGUF) | text-generation | – | other | 63 | 17 | 2026-10-24 |
-| [LiquidAI/d1-2B](https://huggingface.co/LiquidAI/d1-2B) | image-text-to-text | 1.92B | other | 61 | 44 | 2026-10-24 |
-| [LiquidAI/LFM3-1.7B-Base](https://huggingface.co/LiquidAI/LFM3-1.7B-Base) | text-generation | 1.73B | other | 55 | 15 | 2026-10-26 |
-| [LiquidAI/LFM3-VL-2B-GGUF](https://huggingface.co/LiquidAI/LFM3-VL-2B-GGUF) | image-text-to-text | – | other | 27 | 83 | 2026-10-19 |
-| [LiquidAI/LFM3-1.7B-MLX-4bit](https://huggingface.co/LiquidAI/LFM3-1.7B-MLX-4bit) | text-generation | 1.73B | other | 10 | 3 | 2026-10-27 |
-| [LiquidAI/LFM3-VL-2B-MLX-8bit](https://huggingface.co/LiquidAI/LFM3-VL-2B-MLX-8bit) | image-text-to-text | 1.92B | other | 8 | 8 | 2026-10-22 |
-| [LiquidAI/LFM3-VL-2B-ONNX](https://huggingface.co/LiquidAI/LFM3-VL-2B-ONNX) | image-text-to-text | – | other | 8 | 3 | 2026-10-26 |
+| [LiquidAI/LFM3-1.7B](https://huggingface.co/LiquidAI/LFM3-1.7B) | text-generation | 1.73B | other | 423 | 8.9k | 2026-10-23 |
+| [unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF](https://huggingface.co/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF) | text-generation | – | other | 144 | 71.9k | 2026-10-23 |
+| [LiquidAI/LFM3-VL-2B](https://huggingface.co/LiquidAI/LFM3-VL-2B) | image-text-to-text | 1.92B | other | 141 | 1.6k | 2026-10-19 |
+| [LiquidAI/LFM3-1.7B-GGUF](https://huggingface.co/LiquidAI/LFM3-1.7B-GGUF) | text-generation | – | other | 110 | 18.2k | 2026-10-24 |
+| [LiquidAI/d1-2B](https://huggingface.co/LiquidAI/d1-2B) | image-text-to-text | 1.92B | other | 83 | 591 | 2026-10-24 |
+| [LiquidAI/LFM3-1.7B-Base](https://huggingface.co/LiquidAI/LFM3-1.7B-Base) | text-generation | 1.73B | other | 76 | 632 | 2026-10-26 |
+| [LiquidAI/LFM3-VL-2B-GGUF](https://huggingface.co/LiquidAI/LFM3-VL-2B-GGUF) | image-text-to-text | – | other | 40 | 6.7k | 2026-10-19 |
+| [LiquidAI/d1-2B-GGUF](https://huggingface.co/LiquidAI/d1-2B-GGUF) | image-text-to-text | – | other | 19 | 1.1k | 2026-10-27 |
+| [LiquidAI/LFM3-1.7B-MLX-4bit](https://huggingface.co/LiquidAI/LFM3-1.7B-MLX-4bit) | text-generation | 1.73B | other | 14 | 687 | 2026-10-27 |
+| [LiquidAI/LFM3-1.7B-ONNX](https://huggingface.co/LiquidAI/LFM3-1.7B-ONNX) | text-generation | – | other | 13 | 277 | 2026-10-24 |
 
 [Full catalog →](catalog/llm-indonesia.csv)
 
