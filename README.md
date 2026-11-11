@@ -11,26 +11,26 @@ Every morning a GitHub Actions workflow queries the Hub, filters out noise, adds
 ## Recent additions
 
 <!-- WATCHER_START -->
-_Last updated 2026-11-10 · catalog size: Vision: 403 · Speech: 347 · LLM Indonesia: 590 · [today's report](reports/2026/11/2026-11-10.md)_
+_Last updated 2026-11-11 · catalog size: Vision: 406 · Speech: 356 · LLM Indonesia: 629 · [today's report](reports/2026/11/2026-11-11.md)_
 
 ### Vision
 
 New computer-vision and vision-language models that are already getting attention.
 
-Most-liked of the 46 added in the last 7 days:
+Most-liked of the 43 added in the last 7 days:
 
 | Model | Task | Size | License | ❤️ | ⬇️ | Created |
 |-------|------|-----:|---------|---:|---:|---------|
-| [autotrust/Qwen3.8-Flash-Next-E384-FP4-V2](https://huggingface.co/autotrust/Qwen3.8-Flash-Next-E384-FP4-V2) | image-text-to-text | 80.08B | other | 2.4k | 46.0k | 2026-10-26 |
-| [moonshotai/Kimi-K3.1-Pro](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) | image-text-to-text | 2780.11B | other | 1.8k | 27.9k | 2026-11-02 |
-| [Cactus-Compute/mirage](https://huggingface.co/Cactus-Compute/mirage) | image-text-to-text | – | apache-2.0 | 111 | 10.3k | 2026-11-05 |
-| [fastino/GLiDE-27B](https://huggingface.co/fastino/GLiDE-27B) | image-text-to-text | 26.09B | other | 87 | 2.5k | 2026-10-19 |
-| [DavidAU/Qwen3.8-27B-Ultimate-Heretic-Uncensored-Turbo-Brilliance-50x-AGI-NEO-GGUF](https://huggingface.co/DavidAU/Qwen3.8-27B-Ultimate-Heretic-Uncensored-Turbo-Brilliance-50x-AGI-NEO-GGUF) | image-text-to-text | – | apache-2.0 | 83 | 24.9k | 2026-11-04 |
-| [maritaca-ai/S5-nano](https://huggingface.co/maritaca-ai/S5-nano) | image-text-to-text | 4.66B | apache-2.0 | 70 | 581 | 2026-11-02 |
-| [ML-Intern-lab/Qwen3.5-0.8B-weight-space-programming](https://huggingface.co/ML-Intern-lab/Qwen3.5-0.8B-weight-space-programming) | image-text-to-text | 0.87B | apache-2.0 | 69 | 906 | 2026-11-02 |
-| [meituan-longcat/LongCat-2.5](https://huggingface.co/meituan-longcat/LongCat-2.5) | image-text-to-text | 1779.75B | mit | 69 | 0 | 2026-11-04 |
-| [Sparset/Thinklite-27B](https://huggingface.co/Sparset/Thinklite-27B) | image-text-to-text | 27.78B | apache-2.0 | 44 | 401 | 2026-10-30 |
-| [bartowski/NousResearch_Arete-27B-GGUF](https://huggingface.co/bartowski/NousResearch_Arete-27B-GGUF) | image-text-to-text | – | apache-2.0 | 36 | 37.9k | 2026-11-06 |
+| [autotrust/Qwen3.8-Flash-Next-E384-FP4-V2](https://huggingface.co/autotrust/Qwen3.8-Flash-Next-E384-FP4-V2) | image-text-to-text | 80.08B | other | 2.4k | 49.2k | 2026-10-26 |
+| [moonshotai/Kimi-K3.1-Pro](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) | image-text-to-text | 2780.11B | other | 1.9k | 30.7k | 2026-11-02 |
+| [Cactus-Compute/mirage](https://huggingface.co/Cactus-Compute/mirage) | image-text-to-text | – | apache-2.0 | 136 | 12.8k | 2026-11-05 |
+| [fastino/GLiDE-27B](https://huggingface.co/fastino/GLiDE-27B) | image-text-to-text | 26.09B | other | 90 | 2.7k | 2026-10-19 |
+| [DavidAU/Qwen3.8-27B-Ultimate-Heretic-Uncensored-Turbo-Brilliance-50x-AGI-NEO-GGUF](https://huggingface.co/DavidAU/Qwen3.8-27B-Ultimate-Heretic-Uncensored-Turbo-Brilliance-50x-AGI-NEO-GGUF) | image-text-to-text | – | apache-2.0 | 88 | 29.8k | 2026-11-04 |
+| [meituan-longcat/LongCat-2.5](https://huggingface.co/meituan-longcat/LongCat-2.5) | image-text-to-text | 1779.75B | mit | 84 | 195 | 2026-11-04 |
+| [maritaca-ai/S5-nano](https://huggingface.co/maritaca-ai/S5-nano) | image-text-to-text | 4.66B | apache-2.0 | 72 | 1.1k | 2026-11-02 |
+| [Sparset/Thinklite-27B](https://huggingface.co/Sparset/Thinklite-27B) | image-text-to-text | 27.78B | apache-2.0 | 48 | 477 | 2026-10-30 |
+| [bartowski/NousResearch_Arete-27B-GGUF](https://huggingface.co/bartowski/NousResearch_Arete-27B-GGUF) | image-text-to-text | – | apache-2.0 | 39 | 53.9k | 2026-11-06 |
+| [higa2515/Qwen3.8-27B-QSA-GGUF](https://huggingface.co/higa2515/Qwen3.8-27B-QSA-GGUF) | image-text-to-text | – | apache-2.0 | 27 | 11.2k | 2026-11-04 |
 
 [Full catalog →](catalog/vision.csv)
 
@@ -38,20 +38,20 @@ Most-liked of the 46 added in the last 7 days:
 
 New speech recognition, text-to-speech and audio models that are already getting attention.
 
-Most-liked of the 50 added in the last 7 days:
+Most-liked of the 52 added in the last 7 days:
 
 | Model | Task | Size | License | ❤️ | ⬇️ | Created |
 |-------|------|-----:|---------|---:|---:|---------|
-| [ConwayResearch/Underdog-Woof](https://huggingface.co/ConwayResearch/Underdog-Woof) | text-to-speech | – | other | 135 | 10 | 2026-11-05 |
-| [Oomni/mithi-v1-flash](https://huggingface.co/Oomni/mithi-v1-flash) | text-to-speech | – | apache-2.0 | 45 | 87 | 2026-11-07 |
-| [Zyphra/ZONOS3-Mini](https://huggingface.co/Zyphra/ZONOS3-Mini) | text-to-speech | – | apache-2.0 | 26 | 0 | 2026-11-09 |
-| [Prahaladha/hima-asr](https://huggingface.co/Prahaladha/hima-asr) | automatic-speech-recognition | 0.46B | other | 21 | 594 | 2026-10-12 |
-| [goldhub/YuE2-RS-Finetunes](https://huggingface.co/goldhub/YuE2-RS-Finetunes) | text-to-audio | – | cc-by-nc-sa-4.0 | 9 | 12.0k | 2026-10-22 |
-| [klein-ml/Klein-TTS-X1.5-Pro](https://huggingface.co/klein-ml/Klein-TTS-X1.5-Pro) | text-to-speech | 0.01B | apache-2.0 | 9 | 169 | 2026-11-03 |
-| [t8star/Drama-3-Comfy](https://huggingface.co/t8star/Drama-3-Comfy) | text-to-speech | – | other | 7 | 249 | 2026-10-15 |
-| [erayyapagci/balbal-v2](https://huggingface.co/erayyapagci/balbal-v2) | automatic-speech-recognition | – | other | 7 | 160 | 2026-10-29 |
-| [WhissleAI/steer-tts-nano](https://huggingface.co/WhissleAI/steer-tts-nano) | text-to-speech | – | cc-by-nc-4.0 | 7 | 18 | 2026-11-02 |
-| [klein-ml/Klein-TTS-X1.5-Flash-Lite](https://huggingface.co/klein-ml/Klein-TTS-X1.5-Flash-Lite) | text-to-speech | 0B | apache-2.0 | 6 | 273 | 2026-11-03 |
+| [ConwayResearch/Underdog-Woof](https://huggingface.co/ConwayResearch/Underdog-Woof) | text-to-speech | – | other | 152 | 10 | 2026-11-05 |
+| [Zyphra/ZONOS3-Mini](https://huggingface.co/Zyphra/ZONOS3-Mini) | text-to-speech | – | apache-2.0 | 92 | 856 | 2026-11-09 |
+| [Oomni/mithi-v1-flash](https://huggingface.co/Oomni/mithi-v1-flash) | text-to-speech | – | apache-2.0 | 62 | 243 | 2026-11-07 |
+| [Prahaladha/hima-asr](https://huggingface.co/Prahaladha/hima-asr) | automatic-speech-recognition | 0.46B | other | 21 | 1.5k | 2026-10-12 |
+| [klein-ml/Klein-TTS-X1.5-Pro](https://huggingface.co/klein-ml/Klein-TTS-X1.5-Pro) | text-to-speech | 0.01B | apache-2.0 | 10 | 200 | 2026-11-03 |
+| [goldhub/YuE2-RS-Finetunes](https://huggingface.co/goldhub/YuE2-RS-Finetunes) | text-to-audio | – | cc-by-nc-sa-4.0 | 9 | 12.1k | 2026-10-22 |
+| [t8star/Drama-3-Comfy](https://huggingface.co/t8star/Drama-3-Comfy) | text-to-speech | – | other | 7 | 263 | 2026-10-15 |
+| [gertelrina/aadd](https://huggingface.co/gertelrina/aadd) | audio-classification | – | mit | 7 | 45 | 2026-11-05 |
+| [anwar-dev/Bayan-Arabic-TTS-v1.0](https://huggingface.co/anwar-dev/Bayan-Arabic-TTS-v1.0) | text-to-speech | – | other | 6 | 349 | 2026-10-21 |
+| [sahilmahendrakar/Paradee-8M-v1.3](https://huggingface.co/sahilmahendrakar/Paradee-8M-v1.3) | text-to-speech | – | apache-2.0 | 6 | 290 | 2026-11-06 |
 
 [Full catalog →](catalog/speech.csv)
 
@@ -59,20 +59,20 @@ Most-liked of the 50 added in the last 7 days:
 
 Every new language model tagged with Indonesian (`id`), including base, instruct, GGUF and LoRA releases.
 
-Most-liked of the 113 added in the last 7 days:
+Most-liked of the 141 added in the last 7 days:
 
 | Model | Task | Size | License | ❤️ | ⬇️ | Created |
 |-------|------|-----:|---------|---:|---:|---------|
-| [orcarouter/LFM3-1.7B-abliterated-GGUF](https://huggingface.co/orcarouter/LFM3-1.7B-abliterated-GGUF) | text-generation | – | other | 7 | 274 | 2026-11-05 |
-| [xtools-at/LFM3-1.7B-AgentOrange-Claude-Code-2xMerge](https://huggingface.co/xtools-at/LFM3-1.7B-AgentOrange-Claude-Code-2xMerge) | text-generation | 1.73B | other | 4 | 218 | 2026-11-04 |
-| [Shivansh-13929/LFM3-2.2B-Omni-Coder-Instruct](https://huggingface.co/Shivansh-13929/LFM3-2.2B-Omni-Coder-Instruct) | text-generation | 2.17B | other | 3 | 121 | 2026-11-04 |
-| [mradermacher/Mistral-Small-3.2-24B-Instruct-2506-ARA-heretic-i1-GGUF](https://huggingface.co/mradermacher/Mistral-Small-3.2-24B-Instruct-2506-ARA-heretic-i1-GGUF) | gguf | – | apache-2.0 | 2 | 4.4k | 2026-11-06 |
+| [DavidAU/Qwen3.8-27B-Ultimate-Heretic-Uncensored-Turbo-Brilliance-50x-AGI-NEO-GGUF](https://huggingface.co/DavidAU/Qwen3.8-27B-Ultimate-Heretic-Uncensored-Turbo-Brilliance-50x-AGI-NEO-GGUF) | image-text-to-text | – | apache-2.0 | 88 | 29.8k | 2026-11-04 |
+| [DavidAU/Qwen3.8-40B-Ultimate-Heretic-Uncensored-Turbo-Brilliance-50x-AGI-NEO-GGUF](https://huggingface.co/DavidAU/Qwen3.8-40B-Ultimate-Heretic-Uncensored-Turbo-Brilliance-50x-AGI-NEO-GGUF) | image-text-to-text | – | apache-2.0 | 24 | 173 | 2026-11-10 |
+| [DavidAU/Qwen3.8-40B-Ultimate-Heretic-Uncensored-Build2](https://huggingface.co/DavidAU/Qwen3.8-40B-Ultimate-Heretic-Uncensored-Build2) | image-text-to-text | 39.96B | apache-2.0 | 18 | 117 | 2026-11-03 |
+| [orcarouter/LFM3-1.7B-abliterated-GGUF](https://huggingface.co/orcarouter/LFM3-1.7B-abliterated-GGUF) | text-generation | – | other | 10 | 328 | 2026-11-05 |
+| [speakleash/Bielik-11B-v3.1-Instruct-GGUF](https://huggingface.co/speakleash/Bielik-11B-v3.1-Instruct-GGUF) | gguf | – | apache-2.0 | 6 | 0 | 2026-11-10 |
+| [xtools-at/LFM3-1.7B-AgentOrange-Claude-Code-2xMerge](https://huggingface.co/xtools-at/LFM3-1.7B-AgentOrange-Claude-Code-2xMerge) | text-generation | 1.73B | other | 4 | 241 | 2026-11-04 |
+| [Shivansh-13929/LFM3-2.2B-Omni-Coder-Instruct](https://huggingface.co/Shivansh-13929/LFM3-2.2B-Omni-Coder-Instruct) | text-generation | 2.17B | other | 3 | 148 | 2026-11-04 |
+| [mradermacher/Mistral-Small-3.2-24B-Instruct-2506-ARA-heretic-i1-GGUF](https://huggingface.co/mradermacher/Mistral-Small-3.2-24B-Instruct-2506-ARA-heretic-i1-GGUF) | gguf | – | apache-2.0 | 2 | 4.7k | 2026-11-06 |
 | [mradermacher/Qwen3.8-27B-Uncensored-Impulsive-i1-GGUF](https://huggingface.co/mradermacher/Qwen3.8-27B-Uncensored-Impulsive-i1-GGUF) | gguf | – | apache-2.0 | 2 | 4.1k | 2026-11-05 |
-| [xtools-at/LFM3-1.7B-Claude-Opus-Reasoning-Distilled-GGUF](https://huggingface.co/xtools-at/LFM3-1.7B-Claude-Opus-Reasoning-Distilled-GGUF) | text-generation | – | other | 2 | 839 | 2026-11-05 |
-| [mradermacher/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B-GGUF](https://huggingface.co/mradermacher/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B-GGUF) | gguf | – | other | 2 | 407 | 2026-11-08 |
-| [K-Ai-Official/K-Oss-9-Mini](https://huggingface.co/K-Ai-Official/K-Oss-9-Mini) | text-generation | 8.19B | apache-2.0 | 2 | 96 | 2026-11-09 |
-| [mradermacher/LFM2.5-24B-A2B-Uncensored-BF16-i1-GGUF](https://huggingface.co/mradermacher/LFM2.5-24B-A2B-Uncensored-BF16-i1-GGUF) | gguf | – | other | 1 | 5.8k | 2026-11-05 |
-| [Mungert/LFM3-1.7B-GGUF](https://huggingface.co/Mungert/LFM3-1.7B-GGUF) | text-generation | – | other | 1 | 3.4k | 2026-11-07 |
+| [xtools-at/LFM3-1.7B-Claude-Opus-Reasoning-Distilled-GGUF](https://huggingface.co/xtools-at/LFM3-1.7B-Claude-Opus-Reasoning-Distilled-GGUF) | text-generation | – | other | 2 | 1.1k | 2026-11-05 |
 
 [Full catalog →](catalog/llm-indonesia.csv)
 
