@@ -1,33 +1,41 @@
 model_id,author,task,library,params_b,license,base_model,languages,created_at,first_seen,likes,downloads,url
-nvidia/Kimi-K3.1-Pro-NVFP4,nvidia,image-text-to-text,Model Optimizer,1418.74,other,moonshotai/Kimi-K3.1-Pro,,2026-11-11,2026-11-12,9,0,https://huggingface.co/nvidia/Kimi-K3.1-Pro-NVFP4
-nex-agi/Nex-N2.6,nex-agi,image-text-to-text,transformers,321.32,apache-2.0,,,2026-11-10,2026-11-12,48,0,https://huggingface.co/nex-agi/Nex-N2.6
-iapp/OpenThai2.0-OCR-Markdown,iapp,image-text-to-text,,0.63,other,nvidia/Nemotron-3.5-Parse,th en,2026-11-09,2026-11-12,20,35,https://huggingface.co/iapp/OpenThai2.0-OCR-Markdown
-speridlabs/iris-z,speridlabs,depth-estimation,iris-z,,other,black-forest-labs/FLUX.2-dev,,2026-11-04,2026-11-12,22,0,https://huggingface.co/speridlabs/iris-z
-ahmadzmvd/FGVC-IR8,ahmadzmvd,image-classification,pytorch,,mit,,,2026-10-28,2026-11-12,1,1041,https://huggingface.co/ahmadzmvd/FGVC-IR8
-DavidAU/Qwen3.8-40B-Ultimate-Heretic-Uncensored-Turbo-Brilliance-50x-AGI-NEO-GGUF,DavidAU,image-text-to-text,,,apache-2.0,DavidAU/Qwen3.8-40B-Ultimate-Heretic-Uncensored,ar zh en fr de hi id it ja ko pl pt ru es th vi,2026-11-10,2026-11-11,42,4307,https://huggingface.co/DavidAU/Qwen3.8-40B-Ultimate-Heretic-Uncensored-Turbo-Brilliance-50x-AGI-NEO-GGUF
-Sakura721/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic-GGUF,Sakura721,image-text-to-text,gguf,,apache-2.0,xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic,en zh ko ja es ru,2026-11-07,2026-11-11,14,28155,https://huggingface.co/Sakura721/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic-GGUF
-typhoon-ai/typhoon-ocr2-2b,typhoon-ai,image-text-to-text,transformers,2.21,apache-2.0,infly/Infinity-Parser2-Flash,th en,2026-11-05,2026-11-11,13,702,https://huggingface.co/typhoon-ai/typhoon-ocr2-2b
-meituan-longcat/LongCat-2.5,meituan-longcat,image-text-to-text,,1779.75,mit,,,2026-11-04,2026-11-10,182,490,https://huggingface.co/meituan-longcat/LongCat-2.5
-169Pi/Alpie_Seed_GGUF,169Pi,image-text-to-text,gguf,,apache-2.0,169Pi/Alpie_seed,,2026-11-04,2026-11-10,11,1263,https://huggingface.co/169Pi/Alpie_Seed_GGUF
+Cactus-Compute/nemotron-3.5-120b-cq,Cactus-Compute,image-text-to-text,mlx,22.03,other,nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-BF16,cq en es fr de it ja,2026-11-12,2026-11-13,14,0,https://huggingface.co/Cactus-Compute/nemotron-3.5-120b-cq
+moganai/MoganOCR-TR,moganai,image-text-to-text,transformers,2.21,apache-2.0,Qwen/Qwen3.5-2B,tr en,2026-11-11,2026-11-13,9,73,https://huggingface.co/moganai/MoganOCR-TR
+moein99/P2Echo,moein99,image-segmentation,,,mit,,,2026-11-11,2026-11-13,4,0,https://huggingface.co/moein99/P2Echo
+prithivMLmods/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic-MTP-GGUF,prithivMLmods,image-text-to-text,transformers,,apache-2.0,xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic,rl en,2026-11-08,2026-11-13,9,10533,https://huggingface.co/prithivMLmods/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic-MTP-GGUF
+thinkingmachines/Inkling-2-Small-MXFP8,thinkingmachines,image-text-to-text,transformers,612.40,apache-2.0,,,2026-11-04,2026-11-13,9,13,https://huggingface.co/thinkingmachines/Inkling-2-Small-MXFP8
+thinkingmachines/Inkling-2-Small,thinkingmachines,image-text-to-text,transformers,383.07,apache-2.0,,,2026-11-04,2026-11-13,158,12,https://huggingface.co/thinkingmachines/Inkling-2-Small
+beamster/Qwen3.8-Flash-Next-Sushi-STQ-2.75bpw,beamster,image-text-to-text,,24.89,other,Qwen/Qwen3.8-Flash-Next,,2026-10-25,2026-11-13,14,1909,https://huggingface.co/beamster/Qwen3.8-Flash-Next-Sushi-STQ-2.75bpw
+hwh-datascience/TITAAN-SD-yearly,hwh-datascience,image-feature-extraction,transformers,0.31,,facebook/dinov2-with-registers-large,,2026-10-22,2026-11-13,3,18,https://huggingface.co/hwh-datascience/TITAAN-SD-yearly
+nvidia/Kimi-K3.1-Pro-NVFP4,nvidia,image-text-to-text,Model Optimizer,1418.74,other,moonshotai/Kimi-K3.1-Pro,,2026-11-11,2026-11-12,13,370,https://huggingface.co/nvidia/Kimi-K3.1-Pro-NVFP4
+nex-agi/Nex-N2.6,nex-agi,image-text-to-text,transformers,321.32,apache-2.0,,,2026-11-10,2026-11-12,70,191,https://huggingface.co/nex-agi/Nex-N2.6
+iapp/OpenThai2.0-OCR-Markdown,iapp,image-text-to-text,,0.63,other,nvidia/Nemotron-3.5-Parse,th en,2026-11-09,2026-11-12,32,170,https://huggingface.co/iapp/OpenThai2.0-OCR-Markdown
+speridlabs/iris-z,speridlabs,depth-estimation,iris-z,,other,black-forest-labs/FLUX.2-dev,,2026-11-04,2026-11-12,27,0,https://huggingface.co/speridlabs/iris-z
+ahmadzmvd/FGVC-IR8,ahmadzmvd,image-classification,pytorch,,mit,,,2026-10-28,2026-11-12,1,1046,https://huggingface.co/ahmadzmvd/FGVC-IR8
+DavidAU/Qwen3.8-40B-Ultimate-Heretic-Uncensored-Turbo-Brilliance-50x-AGI-NEO-GGUF,DavidAU,image-text-to-text,,,apache-2.0,DavidAU/Qwen3.8-40B-Ultimate-Heretic-Uncensored,ar zh en fr de hi id it ja ko pl pt ru es th vi,2026-11-10,2026-11-11,45,8623,https://huggingface.co/DavidAU/Qwen3.8-40B-Ultimate-Heretic-Uncensored-Turbo-Brilliance-50x-AGI-NEO-GGUF
+Sakura721/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic-GGUF,Sakura721,image-text-to-text,gguf,,apache-2.0,xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic,en zh ko ja es ru,2026-11-07,2026-11-11,20,31158,https://huggingface.co/Sakura721/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic-GGUF
+typhoon-ai/typhoon-ocr2-2b,typhoon-ai,image-text-to-text,transformers,2.21,apache-2.0,infly/Infinity-Parser2-Flash,th en,2026-11-05,2026-11-11,15,838,https://huggingface.co/typhoon-ai/typhoon-ocr2-2b
+meituan-longcat/LongCat-2.5,meituan-longcat,image-text-to-text,,1779.75,mit,,,2026-11-04,2026-11-10,187,710,https://huggingface.co/meituan-longcat/LongCat-2.5
+169Pi/Alpie_Seed_GGUF,169Pi,image-text-to-text,gguf,,apache-2.0,169Pi/Alpie_seed,,2026-11-04,2026-11-10,15,1346,https://huggingface.co/169Pi/Alpie_Seed_GGUF
 beamster/DeepSeek-V4.1-Flash-1017-Sushi-STQ-1.75bpw,beamster,image-text-to-text,,261.32,mit,deepseek-ai/DeepSeek-V4.1-Flash-1017,,2026-10-25,2026-11-10,20,3025,https://huggingface.co/beamster/DeepSeek-V4.1-Flash-1017-Sushi-STQ-1.75bpw
 savita10/laya-vision,savita10,image-classification,laya-vision,,apache-2.0,convaiinnovations/laya,en,2026-10-11,2026-11-10,4,0,https://huggingface.co/savita10/laya-vision
-AtomicChat/Arete-27B-GGUF,AtomicChat,image-text-to-text,gguf,,apache-2.0,NousResearch/Arete-27B,,2026-11-08,2026-11-09,14,1715,https://huggingface.co/AtomicChat/Arete-27B-GGUF
-plimb/codelor-color-1.2,plimb,image-segmentation,,0.00,mit,,en,2026-10-20,2026-11-09,3,62,https://huggingface.co/plimb/codelor-color-1.2
-KaraKaraWitch/haruka-tagger,KaraKaraWitch,image-classification,timm,,apache-2.0,timm/eva02_base_patch14_448.mim_in22k_ft_in22k_in1k,,2026-11-07,2026-11-08,9,0,https://huggingface.co/KaraKaraWitch/haruka-tagger
+AtomicChat/Arete-27B-GGUF,AtomicChat,image-text-to-text,gguf,,apache-2.0,NousResearch/Arete-27B,,2026-11-08,2026-11-09,15,1933,https://huggingface.co/AtomicChat/Arete-27B-GGUF
+plimb/codelor-color-1.2,plimb,image-segmentation,,0.00,mit,,en,2026-10-20,2026-11-09,3,65,https://huggingface.co/plimb/codelor-color-1.2
+KaraKaraWitch/haruka-tagger,KaraKaraWitch,image-classification,timm,,apache-2.0,timm/eva02_base_patch14_448.mim_in22k_ft_in22k_in1k,,2026-11-07,2026-11-08,11,0,https://huggingface.co/KaraKaraWitch/haruka-tagger
 mradermacher/VIGOR-flash-i1-GGUF,mradermacher,image-classification,transformers,,apache-2.0,prithivMLmods/VIGOR-flash,en,2026-11-06,2026-11-08,1,1613,https://huggingface.co/mradermacher/VIGOR-flash-i1-GGUF
 tiny-random/kimi-k3.1-pro,tiny-random,image-text-to-text,transformers,0.03,,moonshotai/Kimi-K3.1-Pro,,2026-11-04,2026-11-08,11,344,https://huggingface.co/tiny-random/kimi-k3.1-pro
 higa2515/Qwen3.8-27B-QSA-BF16,higa2515,image-text-to-text,transformers,27.83,apache-2.0,Qwen/Qwen3.8-27B,,2026-11-04,2026-11-08,13,368,https://huggingface.co/higa2515/Qwen3.8-27B-QSA-BF16
 prithivMLmods/Qwen3.5-0.8B-weight-space-programming-GGUF,prithivMLmods,image-text-to-text,,,apache-2.0,ML-Intern-lab/Qwen3.5-0.8B-weight-space-programming,en,2026-11-03,2026-11-08,9,3779,https://huggingface.co/prithivMLmods/Qwen3.5-0.8B-weight-space-programming-GGUF
-bartowski/NousResearch_Arete-27B-GGUF,bartowski,image-text-to-text,,,apache-2.0,NousResearch/Arete-27B,,2026-11-06,2026-11-07,39,62031,https://huggingface.co/bartowski/NousResearch_Arete-27B-GGUF
-Cactus-Compute/mirage,Cactus-Compute,image-text-to-text,cactus-compute,,apache-2.0,,en de fr es it nl pl,2026-11-05,2026-11-07,180,14615,https://huggingface.co/Cactus-Compute/mirage
+bartowski/NousResearch_Arete-27B-GGUF,bartowski,image-text-to-text,,,apache-2.0,NousResearch/Arete-27B,,2026-11-06,2026-11-07,43,65302,https://huggingface.co/bartowski/NousResearch_Arete-27B-GGUF
+Cactus-Compute/mirage,Cactus-Compute,image-text-to-text,cactus-compute,,apache-2.0,,en de fr es it nl pl,2026-11-05,2026-11-07,214,16133,https://huggingface.co/Cactus-Compute/mirage
 unsloth/Kimi-K3.1-Pro,unsloth,image-text-to-text,transformers,2780.11,other,,,2026-11-04,2026-11-07,12,628,https://huggingface.co/unsloth/Kimi-K3.1-Pro
-DavidAU/Qwen3.8-40B-Ultimate-Heretic-Uncensored-Build2,DavidAU,image-text-to-text,transformers,39.96,apache-2.0,Qwen/Qwen3.8-27B,en,2026-11-03,2026-11-07,17,1035,https://huggingface.co/DavidAU/Qwen3.8-40B-Ultimate-Heretic-Uncensored-Build2
-maritaca-ai/S5-nano,maritaca-ai,image-text-to-text,transformers,4.66,apache-2.0,,pt en,2026-11-02,2026-11-07,76,1249,https://huggingface.co/maritaca-ai/S5-nano
-mayocream/koharu-layout-highres,mayocream,image-segmentation,rfdetr,0.05,apache-2.0,,ja,2026-11-01,2026-11-07,5,112,https://huggingface.co/mayocream/koharu-layout-highres
+DavidAU/Qwen3.8-40B-Ultimate-Heretic-Uncensored-Build2,DavidAU,image-text-to-text,transformers,39.96,apache-2.0,Qwen/Qwen3.8-27B,en,2026-11-03,2026-11-07,18,1102,https://huggingface.co/DavidAU/Qwen3.8-40B-Ultimate-Heretic-Uncensored-Build2
+maritaca-ai/S5-nano,maritaca-ai,image-text-to-text,transformers,4.66,apache-2.0,,pt en,2026-11-02,2026-11-07,77,1357,https://huggingface.co/maritaca-ai/S5-nano
+mayocream/koharu-layout-highres,mayocream,image-segmentation,rfdetr,0.05,apache-2.0,,ja,2026-11-01,2026-11-07,5,125,https://huggingface.co/mayocream/koharu-layout-highres
 IsValorum/Groot-19B-A3B-261023-APEX-I-MiniPlus-V2.1-GGUF,IsValorum,image-text-to-text,gguf,,apache-2.0,GrootTeam/Groot-19B-A3B-261023,,2026-10-30,2026-11-07,11,9980,https://huggingface.co/IsValorum/Groot-19B-A3B-261023-APEX-I-MiniPlus-V2.1-GGUF
 MarioTheKnight/booru-lighting-tagger,MarioTheKnight,image-classification,,,apache-2.0,SmilingWolf/wd-eva02-large-tagger-v3,en,2026-10-27,2026-11-07,3,0,https://huggingface.co/MarioTheKnight/booru-lighting-tagger
-myned-ai/facepoints,myned-ai,keypoint-detection,,0.10,cc-by-nc-4.0,timm/hrnet_w48.ms_in1k,,2026-10-24,2026-11-07,3,81,https://huggingface.co/myned-ai/facepoints
-169Pi/Alpie_seed,169Pi,image-text-to-text,transformers,9.41,apache-2.0,Qwen/Qwen3.5-9B,en hi bn mr gu te ml pa kn or ta,2026-10-23,2026-11-07,25,678,https://huggingface.co/169Pi/Alpie_seed
+myned-ai/facepoints,myned-ai,keypoint-detection,,0.10,cc-by-nc-4.0,timm/hrnet_w48.ms_in1k,,2026-10-24,2026-11-07,3,90,https://huggingface.co/myned-ai/facepoints
+169Pi/Alpie_seed,169Pi,image-text-to-text,transformers,9.41,apache-2.0,Qwen/Qwen3.5-9B,en hi bn mr gu te ml pa kn or ta,2026-10-23,2026-11-07,27,741,https://huggingface.co/169Pi/Alpie_seed
 nota-ai/Kimi-K3.1-Pro-Global-Pruned-37,nota-ai,image-text-to-text,transformers,1758.86,other,moonshotai/Kimi-K3.1-Pro,,2026-11-06,2026-11-06,18,28,https://huggingface.co/nota-ai/Kimi-K3.1-Pro-Global-Pruned-37
 nota-ai/Kimi-K3.1-Pro-Global-Pruned-30,nota-ai,image-text-to-text,transformers,1953.38,other,moonshotai/Kimi-K3.1-Pro,,2026-11-06,2026-11-06,20,9,https://huggingface.co/nota-ai/Kimi-K3.1-Pro-Global-Pruned-30
 vllm-project/Kimi-K3.1-Pro-pruned75,vllm-project,image-text-to-text,transformers,737.61,other,moonshotai/Kimi-K3.1-Pro,,2026-11-05,2026-11-06,22,370,https://huggingface.co/vllm-project/Kimi-K3.1-Pro-pruned75
@@ -35,27 +43,27 @@ prithivMLmods/Qwen3.5-4B-3D-Coder-MTP-Repacked,prithivMLmods,image-text-to-text,
 Yuesai/HandXFM,Yuesai,image-feature-extraction,transformers,0.09,other,facebook/dinov3-vitb16-pretrain-lvd1689m,,2026-11-02,2026-11-06,1,4733,https://huggingface.co/Yuesai/HandXFM
 beipo-ai/NorthCUA-Nano,beipo-ai,image-text-to-text,transformers,9.41,apache-2.0,,,2026-11-01,2026-11-06,14,388,https://huggingface.co/beipo-ai/NorthCUA-Nano
 Naphula/Erebus-RP-Engine-26B-A4B,Naphula,image-text-to-text,transformers,26.00,apache-2.0,26B-Suite/Gemory-26B-A4B-SOMPOA,rp en,2026-10-31,2026-11-06,12,88,https://huggingface.co/Naphula/Erebus-RP-Engine-26B-A4B
-fastino/GLiDE-27B,fastino,image-text-to-text,transformers,26.09,other,,,2026-10-19,2026-11-06,91,2814,https://huggingface.co/fastino/GLiDE-27B
+fastino/GLiDE-27B,fastino,image-text-to-text,transformers,26.09,other,,,2026-10-19,2026-11-06,94,2914,https://huggingface.co/fastino/GLiDE-27B
 sp1d5r/video-jev,sp1d5r,video-classification,peft,,cc-by-nc-sa-4.0,Qwen/Qwen3-Omni-30B-A3B-Instruct,,2026-10-18,2026-11-06,3,0,https://huggingface.co/sp1d5r/video-jev
-higa2515/Qwen3.8-27B-QSA-GGUF,higa2515,image-text-to-text,gguf,,apache-2.0,higa2515/Qwen3.8-27B-QSA-BF16,,2026-11-04,2026-11-05,31,11450,https://huggingface.co/higa2515/Qwen3.8-27B-QSA-GGUF
-DavidAU/Qwen3.8-27B-Ultimate-Heretic-Uncensored-Turbo-Brilliance-50x-AGI-NEO-GGUF,DavidAU,image-text-to-text,,,apache-2.0,DavidAU/Qwen3.8-27B-Ultimate-Heretic-Uncensored,en,2026-11-04,2026-11-05,184,38056,https://huggingface.co/DavidAU/Qwen3.8-27B-Ultimate-Heretic-Uncensored-Turbo-Brilliance-50x-AGI-NEO-GGUF
-moonshotai/Kimi-K3.1-Pro,moonshotai,image-text-to-text,transformers,2780.11,other,,,2026-11-02,2026-11-05,1955,33617,https://huggingface.co/moonshotai/Kimi-K3.1-Pro
+higa2515/Qwen3.8-27B-QSA-GGUF,higa2515,image-text-to-text,gguf,,apache-2.0,higa2515/Qwen3.8-27B-QSA-BF16,,2026-11-04,2026-11-05,32,12136,https://huggingface.co/higa2515/Qwen3.8-27B-QSA-GGUF
+DavidAU/Qwen3.8-27B-Ultimate-Heretic-Uncensored-Turbo-Brilliance-50x-AGI-NEO-GGUF,DavidAU,image-text-to-text,,,apache-2.0,DavidAU/Qwen3.8-27B-Ultimate-Heretic-Uncensored,en,2026-11-04,2026-11-05,193,42279,https://huggingface.co/DavidAU/Qwen3.8-27B-Ultimate-Heretic-Uncensored-Turbo-Brilliance-50x-AGI-NEO-GGUF
+moonshotai/Kimi-K3.1-Pro,moonshotai,image-text-to-text,transformers,2780.11,other,,,2026-11-02,2026-11-05,1991,37486,https://huggingface.co/moonshotai/Kimi-K3.1-Pro
 beipo-ai/NorthCUA-Mini,beipo-ai,image-text-to-text,transformers,35.11,apache-2.0,,,2026-11-01,2026-11-05,17,427,https://huggingface.co/beipo-ai/NorthCUA-Mini
 Alissonerdx/Molmo2-8B-Minimax-H3,Alissonerdx,image-text-to-text,minimax-h3,,apache-2.0,allenai/Molmo2-8B,,2026-10-31,2026-11-05,23,12129,https://huggingface.co/Alissonerdx/Molmo2-8B-Minimax-H3
-Sparset/Thinklite-27B,Sparset,image-text-to-text,transformers,27.78,apache-2.0,Qwen/Qwen3.8-27B,,2026-10-30,2026-11-05,50,522,https://huggingface.co/Sparset/Thinklite-27B
-APEXE3HQ/ae3-tl,APEXE3HQ,object-detection,onnx,,apache-2.0,,en,2026-10-27,2026-11-05,5,16,https://huggingface.co/APEXE3HQ/ae3-tl
-autotrust/Qwen3.8-Flash-Next-E384-FP4-V2,autotrust,image-text-to-text,vllm,80.08,other,autotrust/Qwen3.8-Flash-Next-E384-FP4-Local,rl en zh,2026-10-26,2026-11-05,2439,52593,https://huggingface.co/autotrust/Qwen3.8-Flash-Next-E384-FP4-V2
+Sparset/Thinklite-27B,Sparset,image-text-to-text,transformers,27.78,apache-2.0,Qwen/Qwen3.8-27B,,2026-10-30,2026-11-05,51,568,https://huggingface.co/Sparset/Thinklite-27B
+APEXE3HQ/ae3-tl,APEXE3HQ,object-detection,onnx,,apache-2.0,,en,2026-10-27,2026-11-05,6,16,https://huggingface.co/APEXE3HQ/ae3-tl
+autotrust/Qwen3.8-Flash-Next-E384-FP4-V2,autotrust,image-text-to-text,vllm,80.08,other,autotrust/Qwen3.8-Flash-Next-E384-FP4-Local,rl en zh,2026-10-26,2026-11-05,2439,55866,https://huggingface.co/autotrust/Qwen3.8-Flash-Next-E384-FP4-V2
 Egzakta/Kvark-Sparkle-1.0-27B-GGUF,Egzakta,image-text-to-text,gguf,,apache-2.0,Egzakta/Kvark-Sparkle-1.0-27B,en,2026-10-19,2026-11-05,13,6823,https://huggingface.co/Egzakta/Kvark-Sparkle-1.0-27B-GGUF
 prithivMLmods/Xiaomi-OCR-0-GGUF,prithivMLmods,image-text-to-text,transformers,,apache-2.0,xiaomi-research/Xiaomi-OCR-0,en,2026-10-07,2026-11-05,16,36651,https://huggingface.co/prithivMLmods/Xiaomi-OCR-0-GGUF
-ML-Intern-lab/Qwen3.5-0.8B-weight-space-programming,ML-Intern-lab,image-text-to-text,transformers,0.87,apache-2.0,Qwen/Qwen3.5-0.8B,,2026-11-02,2026-11-04,70,1135,https://huggingface.co/ML-Intern-lab/Qwen3.5-0.8B-weight-space-programming
+ML-Intern-lab/Qwen3.5-0.8B-weight-space-programming,ML-Intern-lab,image-text-to-text,transformers,0.87,apache-2.0,Qwen/Qwen3.5-0.8B,,2026-11-02,2026-11-04,70,1177,https://huggingface.co/ML-Intern-lab/Qwen3.5-0.8B-weight-space-programming
 JonathanColetti/Qwen3.5-0.8B-Astra-WeightEdit,JonathanColetti,image-text-to-text,transformers,0.87,apache-2.0,Qwen/Qwen3.5-0.8B,,2026-11-02,2026-11-04,26,2084,https://huggingface.co/JonathanColetti/Qwen3.5-0.8B-Astra-WeightEdit
 beipo-ai/NorthCUA-Pro,beipo-ai,image-text-to-text,transformers,396.80,apache-2.0,,,2026-10-30,2026-11-04,33,999,https://huggingface.co/beipo-ai/NorthCUA-Pro
 Egzakta/Kvark-Sparkle-1.0-27B,Egzakta,image-text-to-text,transformers,27.36,apache-2.0,Qwen/Qwen3.8-27B,en,2026-10-19,2026-11-04,13,184,https://huggingface.co/Egzakta/Kvark-Sparkle-1.0-27B
 AlmawaveLabs/Velvet2-3B-Vision,AlmawaveLabs,image-text-to-text,transformers,4.33,apache-2.0,AlmawaveLabs/Velvet2-3B,en it pt es de fr,2026-10-14,2026-11-04,10,66,https://huggingface.co/AlmawaveLabs/Velvet2-3B-Vision
 ukisai/Swift-1.5-Ornith-9B-GGUF,ukisai,image-text-to-text,gguf,,apache-2.0,ukisai/Swift-1.5-Ornith-9B,,2026-10-09,2026-11-04,24,2532,https://huggingface.co/ukisai/Swift-1.5-Ornith-9B-GGUF
-galilai-group/LeVJEPA-1.5-Large,galilai-group,video-classification,transformers,,cc-by-nc-4.0,,,2026-11-02,2026-11-03,17,243,https://huggingface.co/galilai-group/LeVJEPA-1.5-Large
-RikiyaT/Qwen3.5-0.8B-weight-space-programming,RikiyaT,image-text-to-text,transformers,0.87,apache-2.0,Qwen/Qwen3.5-0.8B,,2026-11-02,2026-11-03,135,4131,https://huggingface.co/RikiyaT/Qwen3.5-0.8B-weight-space-programming
-ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-Coder-GGUF,ISTA-DASLab,image-text-to-text,gguf,,mit,deepseek-ai/DeepSeek-V4.1-Flash-1017,,2026-11-02,2026-11-03,225,330601,https://huggingface.co/ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-Coder-GGUF
+galilai-group/LeVJEPA-1.5-Large,galilai-group,video-classification,transformers,,cc-by-nc-4.0,,,2026-11-02,2026-11-03,18,269,https://huggingface.co/galilai-group/LeVJEPA-1.5-Large
+RikiyaT/Qwen3.5-0.8B-weight-space-programming,RikiyaT,image-text-to-text,transformers,0.87,apache-2.0,Qwen/Qwen3.5-0.8B,,2026-11-02,2026-11-03,137,4374,https://huggingface.co/RikiyaT/Qwen3.5-0.8B-weight-space-programming
+ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-Coder-GGUF,ISTA-DASLab,image-text-to-text,gguf,,mit,deepseek-ai/DeepSeek-V4.1-Flash-1017,,2026-11-02,2026-11-03,226,342280,https://huggingface.co/ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-Coder-GGUF
 prithivMLmods/Qwen3.5-4B-3D-Coder-GGUF,prithivMLmods,image-text-to-text,transformers,,apache-2.0,ccore/Qwen3.5-4B-3D-Coder,en,2026-10-30,2026-11-03,11,6188,https://huggingface.co/prithivMLmods/Qwen3.5-4B-3D-Coder-GGUF
 jackjusko/Swift-1.5-Flash-Next-Heretic-ReverseEngineer,jackjusko,image-text-to-text,gguf,,other,jeffpeng3/Swift-1.5-Qwen3.8-Flash-Next-heretic,en zh,2026-10-28,2026-11-03,75,7834,https://huggingface.co/jackjusko/Swift-1.5-Flash-Next-Heretic-ReverseEngineer
 kinkyrvn/nevermore,kinkyrvn,object-detection,onnx,,agpl-3.0,Ultralytics/YOLO26,,2026-10-27,2026-11-03,3,0,https://huggingface.co/kinkyrvn/nevermore
@@ -64,17 +72,17 @@ peasantsmith/MiniMax-M3.1-Flash-Maya-GGUF,peasantsmith,image-text-to-text,,,othe
 Jackrong/Qwopus3.8-27B-Coder-Flash,Jackrong,image-text-to-text,transformers,27.78,apache-2.0,unsloth/Qwen3.8-27B,en zh,2026-10-31,2026-11-02,33,1288,https://huggingface.co/Jackrong/Qwopus3.8-27B-Coder-Flash
 yangbai123/EVLF-FM,yangbai123,image-classification,,8.61,,OpenGVLab/InternVL3-8B,en,2026-10-30,2026-11-02,3,110,https://huggingface.co/yangbai123/EVLF-FM
 Hansda/Mage-VL-Cowork-GGUF,Hansda,image-text-to-text,llama.cpp,,apache-2.0,microsoft/Mage-VL-Cowork,en,2026-10-30,2026-11-02,17,6786,https://huggingface.co/Hansda/Mage-VL-Cowork-GGUF
-Jackrong/Qwopus3.8-27B-Coder-Flash-GGUF,Jackrong,image-text-to-text,transformers,,apache-2.0,unsloth/Qwen3.8-27B,en zh,2026-10-28,2026-11-02,72,29220,https://huggingface.co/Jackrong/Qwopus3.8-27B-Coder-Flash-GGUF
+Jackrong/Qwopus3.8-27B-Coder-Flash-GGUF,Jackrong,image-text-to-text,transformers,,apache-2.0,unsloth/Qwen3.8-27B,en zh,2026-10-28,2026-11-02,72,29608,https://huggingface.co/Jackrong/Qwopus3.8-27B-Coder-Flash-GGUF
 neghani/plantvillage-mobilenetv2,neghani,image-classification,transformers,0.00,apache-2.0,google/mobilenet_v2_1.0_224,en,2026-10-11,2026-11-02,2,3528,https://huggingface.co/neghani/plantvillage-mobilenetv2
 saidutta69/Qwen3.5-4B-heretic,saidutta69,image-text-to-text,transformers,4.54,apache-2.0,Qwen/Qwen3.5-4B,en zh ar de es fr it ja ko pt ru hi id th tr vi,2026-10-28,2026-11-01,25,6544,https://huggingface.co/saidutta69/Qwen3.5-4B-heretic
 AtomicChat/Unlimited-OCR-2-GGUF,AtomicChat,image-text-to-text,gguf,,mit,baidu/Unlimited-OCR-2,,2026-10-27,2026-11-01,17,9321,https://huggingface.co/AtomicChat/Unlimited-OCR-2-GGUF
 nvidia/DeepSeek-V4.1-Flash-1017-NVFP4,nvidia,image-text-to-text,Model Optimizer,664.90,mit,deepseek-ai/DeepSeek-V4.1-Flash-1017,,2026-10-30,2026-10-31,188,11793,https://huggingface.co/nvidia/DeepSeek-V4.1-Flash-1017-NVFP4
-microsoft/Mage-VL-Cowork,microsoft,image-text-to-text,transformers,4.74,apache-2.0,microsoft/Mage-VL,en,2026-10-30,2026-10-31,222,4079,https://huggingface.co/microsoft/Mage-VL-Cowork
+microsoft/Mage-VL-Cowork,microsoft,image-text-to-text,transformers,4.74,apache-2.0,microsoft/Mage-VL,en,2026-10-30,2026-10-31,222,4226,https://huggingface.co/microsoft/Mage-VL-Cowork
 wkentaro/sam3-onnx-models-v0.5.0,wkentaro,mask-generation,onnx,,other,facebook/sam3,,2026-10-29,2026-10-31,5,0,https://huggingface.co/wkentaro/sam3-onnx-models-v0.5.0
 turboderp/DeepSeek-V4.1-Flash-1017-exl3,turboderp,image-text-to-text,,,mit,deepseek-ai/DeepSeek-V4.1-Flash-1017,,2026-10-29,2026-10-31,25,437,https://huggingface.co/turboderp/DeepSeek-V4.1-Flash-1017-exl3
-sensenova/SenseNova-Loop-9B-Preview,sensenova,image-text-to-text,transformers,9.66,apache-2.0,,en zh,2026-10-28,2026-10-31,288,4152,https://huggingface.co/sensenova/SenseNova-Loop-9B-Preview
+sensenova/SenseNova-Loop-9B-Preview,sensenova,image-text-to-text,transformers,9.66,apache-2.0,,en zh,2026-10-28,2026-10-31,289,4275,https://huggingface.co/sensenova/SenseNova-Loop-9B-Preview
 ggml-org/Mistral-Large-4-1T-A52B-GGUF,ggml-org,image-text-to-text,,,other,mistralai/Mistral-Large-4-1T-A52B,,2026-10-28,2026-10-31,14,5597,https://huggingface.co/ggml-org/Mistral-Large-4-1T-A52B-GGUF
-Modotte/AIRealNet-2,Modotte,image-classification,transformers,0.20,mit,Modotte/AIRealNet,,2026-10-28,2026-10-31,10,471,https://huggingface.co/Modotte/AIRealNet-2
+Modotte/AIRealNet-2,Modotte,image-classification,transformers,0.20,mit,Modotte/AIRealNet,,2026-10-28,2026-10-31,10,479,https://huggingface.co/Modotte/AIRealNet-2
 AtomicChat/MiniCPM-OCR-1.0-GGUF,AtomicChat,image-text-to-text,gguf,,apache-2.0,openbmb/MiniCPM-OCR-1.0,en zh,2026-10-28,2026-10-31,11,2004,https://huggingface.co/AtomicChat/MiniCPM-OCR-1.0-GGUF
 LiquidAI/d1-2B-ONNX,LiquidAI,image-text-to-text,onnxruntime,,other,LiquidAI/d1-2B,en ar zh fr de it ja ko pt es vi th id hi ru pl,2026-10-27,2026-10-31,11,598,https://huggingface.co/LiquidAI/d1-2B-ONNX
 LiquidAI/LFM3-VL-2B-FP8,LiquidAI,image-text-to-text,transformers,1.92,other,LiquidAI/LFM3-VL-2B,en ar zh fr de it ja ko pt es vi th id hi ru pl,2026-10-24,2026-10-31,10,360,https://huggingface.co/LiquidAI/LFM3-VL-2B-FP8
@@ -87,12 +95,12 @@ AdrianSK/vit-b16-in21k-cifar100,AdrianSK,image-classification,pytorch,0.09,apach
 LiquidAI/LFM3-VL-2B-ONNX,LiquidAI,image-text-to-text,onnxruntime,,other,LiquidAI/LFM3-VL-2B,en ar zh fr de it ja ko pt es vi th id hi ru pl,2026-10-26,2026-10-30,11,645,https://huggingface.co/LiquidAI/LFM3-VL-2B-ONNX
 datalab-to/surya-ocr-2.5,datalab-to,image-text-to-text,transformers,0.69,openrail,,,2026-10-25,2026-10-30,50,54042,https://huggingface.co/datalab-to/surya-ocr-2.5
 LiquidAI/LFM3-VL-2B-NVFP4,LiquidAI,image-text-to-text,transformers,1.35,other,LiquidAI/LFM3-VL-2B,en ar zh fr de it ja ko pt es vi th id hi ru pl,2026-10-24,2026-10-30,12,457,https://huggingface.co/LiquidAI/LFM3-VL-2B-NVFP4
-paperinstruments/Ultramarine-1-Flash,paperinstruments,image-text-to-text,transformers,321.32,other,zai-org/GLM-5.3-Flash,,2026-10-22,2026-10-30,25,132,https://huggingface.co/paperinstruments/Ultramarine-1-Flash
+paperinstruments/Ultramarine-1-Flash,paperinstruments,image-text-to-text,transformers,321.32,other,zai-org/GLM-5.3-Flash,,2026-10-22,2026-10-30,34,175,https://huggingface.co/paperinstruments/Ultramarine-1-Flash
 AtomicChat/FLUX-3-Image-Klein-pup-Uncensored-GGUF,AtomicChat,image-text-to-text,gguf,,apache-2.0,black-forest-labs/flux-3-image-klein-pup,,2026-10-20,2026-10-30,22,26452,https://huggingface.co/AtomicChat/FLUX-3-Image-Klein-pup-Uncensored-GGUF
 nishsm/golf-club-detection-swingtrace,nishsm,object-detection,ultralytics,,agpl-3.0,Ultralytics/YOLO11,,2026-10-08,2026-10-30,8,549,https://huggingface.co/nishsm/golf-club-detection-swingtrace
 mistralai/Mistral-Large-4-1T-A52B,mistralai,image-text-to-text,transformers,,other,,en fr de es pt it ja ko ru zh ar fa id ms ne pl ro sr sv tr uk vi hi bn bg hr cs da nl et fi el hu ga lv lt mt sk sl,2026-09-30,2026-10-30,1250,278,https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B
 webbrain-one/lfm3-vld-2b-multipass,webbrain-one,image-text-to-text,transformers,1.92,other,LiquidAI/LFM3-VL-2B,,2026-10-28,2026-10-29,18,239,https://huggingface.co/webbrain-one/lfm3-vld-2b-multipass
-LiquidAI/d1-2B-GGUF,LiquidAI,image-text-to-text,gguf,,other,LiquidAI/d1-2B,en ar zh fr de it ja ko pt es vi th id hi ru pl,2026-10-27,2026-10-29,31,21410,https://huggingface.co/LiquidAI/d1-2B-GGUF
+LiquidAI/d1-2B-GGUF,LiquidAI,image-text-to-text,gguf,,other,LiquidAI/d1-2B,en ar zh fr de it ja ko pt es vi th id hi ru pl,2026-10-27,2026-10-29,41,30797,https://huggingface.co/LiquidAI/d1-2B-GGUF
 openbmb/MiniCPM-OCR-Jev-gguf,openbmb,image-text-to-text,,,apache-2.0,openbmb/MiniCPM-OCR-Jev,en zh,2026-10-26,2026-10-29,18,15183,https://huggingface.co/openbmb/MiniCPM-OCR-Jev-gguf
 openbmb/MiniCPM-OCR-1.0-DSpark,openbmb,image-text-to-text,,0.30,apache-2.0,openbmb/MiniCPM-OCR-1.0,en zh,2026-10-26,2026-10-29,12,1151,https://huggingface.co/openbmb/MiniCPM-OCR-1.0-DSpark
 MTalha2001/LOCUS-2B,MTalha2001,image-text-to-text,,1.75,apache-2.0,Qwen/Qwen3-VL-2B-Instruct,en,2026-10-26,2026-10-29,18,114,https://huggingface.co/MTalha2001/LOCUS-2B
@@ -106,24 +114,24 @@ GroundingPI/GroundAnything-VLM,GroundingPI,image-text-to-text,transformers,4.84,
 IsValorum/Cyber-Tiel-Coder-35B-A3B-APEX-I-MiniPlus-V2.1-GGUF,IsValorum,image-text-to-text,gguf,,mit,peculiar-ragdoll/Cyber-Tiel-Coder-35B-A3B-GGUF-MTP,en zh es fr de pt it ru ja ko vi th ar,2026-09-29,2026-10-29,27,17274,https://huggingface.co/IsValorum/Cyber-Tiel-Coder-35B-A3B-APEX-I-MiniPlus-V2.1-GGUF
 webbrain-one/lfm3-vld-2b,webbrain-one,image-text-to-text,transformers,1.92,other,LiquidAI/LFM3-VL-2B,,2026-10-28,2026-10-28,15,296,https://huggingface.co/webbrain-one/lfm3-vld-2b
 sensenova/SenseNova-6.8-Code2Video,sensenova,image-text-to-text,transformers,27.36,apache-2.0,,en zh,2026-10-24,2026-10-28,107,1413,https://huggingface.co/sensenova/SenseNova-6.8-Code2Video
-LiquidAI/d1-2B,LiquidAI,image-text-to-text,transformers,1.92,other,LiquidAI/LFM3-VL-2B,en ar zh fr de it ja ko pt es vi th id hi ru pl,2026-10-24,2026-10-28,273,11252,https://huggingface.co/LiquidAI/d1-2B
+LiquidAI/d1-2B,LiquidAI,image-text-to-text,transformers,1.92,other,LiquidAI/LFM3-VL-2B,en ar zh fr de it ja ko pt es vi th id hi ru pl,2026-10-24,2026-10-28,277,11703,https://huggingface.co/LiquidAI/d1-2B
 openbmb/MiniCPM-OCR-Jev,openbmb,image-text-to-text,,2.21,apache-2.0,,en zh,2026-10-23,2026-10-28,91,16255,https://huggingface.co/openbmb/MiniCPM-OCR-Jev
 GrootTeam/Groot-65B-A6B-261023-GGUF,GrootTeam,image-text-to-text,transformers,,other,,,2026-10-23,2026-10-28,33,6457,https://huggingface.co/GrootTeam/Groot-65B-A6B-261023-GGUF
 GrootTeam/Groot-65B-A6B-261023,GrootTeam,image-text-to-text,transformers,118.31,other,,,2026-10-23,2026-10-28,28,547,https://huggingface.co/GrootTeam/Groot-65B-A6B-261023
-openbmb/MiniCPM-OCR-1.0,openbmb,image-text-to-text,,1.30,apache-2.0,,en zh,2026-10-21,2026-10-28,456,114431,https://huggingface.co/openbmb/MiniCPM-OCR-1.0
+openbmb/MiniCPM-OCR-1.0,openbmb,image-text-to-text,,1.30,apache-2.0,,en zh,2026-10-21,2026-10-28,457,128483,https://huggingface.co/openbmb/MiniCPM-OCR-1.0
 LiquidAI/LFM3-VL-2B-GGUF,LiquidAI,image-text-to-text,gguf,,other,LiquidAI/LFM3-VL-2B,en ar zh fr de it ja ko pt es vi th id hi ru pl,2026-10-19,2026-10-28,71,108875,https://huggingface.co/LiquidAI/LFM3-VL-2B-GGUF
-LiquidAI/LFM3-VL-2B,LiquidAI,image-text-to-text,transformers,1.92,other,LiquidAI/LFM3-1.7B-Base,en ar zh fr de it ja ko pt es vi th id hi ru pl,2026-10-19,2026-10-28,273,21212,https://huggingface.co/LiquidAI/LFM3-VL-2B
+LiquidAI/LFM3-VL-2B,LiquidAI,image-text-to-text,transformers,1.92,other,LiquidAI/LFM3-1.7B-Base,en ar zh fr de it ja ko pt es vi th id hi ru pl,2026-10-19,2026-10-28,275,22481,https://huggingface.co/LiquidAI/LFM3-VL-2B
 inclusionAI/LBS-27B,inclusionAI,image-text-to-text,,0.00,apache-2.0,,,2026-10-26,2026-10-27,16,766,https://huggingface.co/inclusionAI/LBS-27B
-baidu/Unlimited-OCR-2,baidu,image-text-to-text,transformers,3.34,mit,,,2026-10-26,2026-10-27,681,503648,https://huggingface.co/baidu/Unlimited-OCR-2
-huihui-ai/Huihui-DeepSeek-V4.1-Flash-1017-abliterated-GGUF,huihui-ai,image-text-to-text,transformers,,mit,deepseek-ai/DeepSeek-V4.1-Flash-1017,,2026-10-25,2026-10-27,183,69785,https://huggingface.co/huihui-ai/Huihui-DeepSeek-V4.1-Flash-1017-abliterated-GGUF
-mradermacher/WeVisOne-VL-4B-GGUF,mradermacher,object-detection,transformers,,apache-2.0,tencent/WeVisOne-VL-4B,en,2026-10-24,2026-10-27,5,5503,https://huggingface.co/mradermacher/WeVisOne-VL-4B-GGUF
+baidu/Unlimited-OCR-2,baidu,image-text-to-text,transformers,3.34,mit,,,2026-10-26,2026-10-27,685,519371,https://huggingface.co/baidu/Unlimited-OCR-2
+huihui-ai/Huihui-DeepSeek-V4.1-Flash-1017-abliterated-GGUF,huihui-ai,image-text-to-text,transformers,,mit,deepseek-ai/DeepSeek-V4.1-Flash-1017,,2026-10-25,2026-10-27,190,73472,https://huggingface.co/huihui-ai/Huihui-DeepSeek-V4.1-Flash-1017-abliterated-GGUF
+mradermacher/WeVisOne-VL-4B-GGUF,mradermacher,object-detection,transformers,,apache-2.0,tencent/WeVisOne-VL-4B,en,2026-10-24,2026-10-27,5,5557,https://huggingface.co/mradermacher/WeVisOne-VL-4B-GGUF
 unsloth/MiniMax-M3.1-Flash,unsloth,image-text-to-text,transformers,220.49,other,MiniMaxAI/MiniMax-M3.1-Flash,,2026-10-23,2026-10-27,10,452,https://huggingface.co/unsloth/MiniMax-M3.1-Flash
 introvoyz045/Trash-Net,introvoyz045,image-classification,transformers,0.09,apache-2.0,google/siglip2-base-patch16-224,en,2026-10-23,2026-10-27,1,3104,https://huggingface.co/introvoyz045/Trash-Net
-GrootTeam/Groot-19B-A3B-261023-GGUF,GrootTeam,image-text-to-text,transformers,,apache-2.0,,,2026-10-23,2026-10-27,53,29351,https://huggingface.co/GrootTeam/Groot-19B-A3B-261023-GGUF
+GrootTeam/Groot-19B-A3B-261023-GGUF,GrootTeam,image-text-to-text,transformers,,apache-2.0,,,2026-10-23,2026-10-27,54,29669,https://huggingface.co/GrootTeam/Groot-19B-A3B-261023-GGUF
 Abiray/Qwen3.8-Flash-Next-Orca-Abliterated-GSQ-RCO-Coder-GGUF,Abiray,image-text-to-text,gguf,,,ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-Coder-GGUF,,2026-10-23,2026-10-27,12,4625,https://huggingface.co/Abiray/Qwen3.8-Flash-Next-Orca-Abliterated-GSQ-RCO-Coder-GGUF
 RBDash-Team/Xing-VL2.0-Decision,RBDash-Team,image-text-to-text,transformers,26.09,apache-2.0,Qwen/Qwen3.8-27B,,2026-10-22,2026-10-27,14,2886,https://huggingface.co/RBDash-Team/Xing-VL2.0-Decision
-DavidAU/Qwen3.8-40B-Ultimate-Heretic-Uncensored,DavidAU,image-text-to-text,transformers,39.96,apache-2.0,Qwen/Qwen3.8-27B,en,2026-10-22,2026-10-27,51,1388,https://huggingface.co/DavidAU/Qwen3.8-40B-Ultimate-Heretic-Uncensored
-vllm-sr/vela3-fast-vision,vllm-sr,zero-shot-image-classification,transformers,0.25,mit,athrael-soju/UltraVBERT,,2026-10-21,2026-10-27,20,479,https://huggingface.co/vllm-sr/vela3-fast-vision
+DavidAU/Qwen3.8-40B-Ultimate-Heretic-Uncensored,DavidAU,image-text-to-text,transformers,39.96,apache-2.0,Qwen/Qwen3.8-27B,en,2026-10-22,2026-10-27,52,1502,https://huggingface.co/DavidAU/Qwen3.8-40B-Ultimate-Heretic-Uncensored
+vllm-sr/vela3-fast-vision,vllm-sr,zero-shot-image-classification,transformers,0.25,mit,athrael-soju/UltraVBERT,,2026-10-21,2026-10-27,20,498,https://huggingface.co/vllm-sr/vela3-fast-vision
 rodynaemad/plant-disease-dinov2-small,rodynaemad,image-classification,transformers,0.02,cc-by-sa-4.0,facebook/dinov2-small,,2026-10-09,2026-10-27,1,5379,https://huggingface.co/rodynaemad/plant-disease-dinov2-small
 ConservationDrones/DroneMegaDetector,ConservationDrones,object-detection,transformers,0.04,mit,,,2026-10-02,2026-10-27,4,67,https://huggingface.co/ConservationDrones/DroneMegaDetector
 mradermacher/WeVisOne-VL-2B-GGUF,mradermacher,object-detection,transformers,,apache-2.0,tencent/WeVisOne-VL-2B,en,2026-10-24,2026-10-26,7,4913,https://huggingface.co/mradermacher/WeVisOne-VL-2B-GGUF
@@ -135,9 +143,9 @@ huseyincavus/tr-abdomen-rad-weights,huseyincavus,object-detection,ultralytics,,,
 bottlecapai/ThinkingCap-Qwen3.8-Flash-Next-GGUF,bottlecapai,image-text-to-text,gguf,,other,bottlecapai/ThinkingCap-Qwen3.8-Flash-Next,,2026-10-22,2026-10-25,16,1827,https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.8-Flash-Next-GGUF
 knowledgator/gliclass-v4-2b,knowledgator,zero-shot-image-classification,gliclass,2.36,apache-2.0,Qwen/Qwen3.5-2B,en,2026-10-15,2026-10-25,4,158,https://huggingface.co/knowledgator/gliclass-v4-2b
 hcltech-robotics/rev-ct,hcltech-robotics,image-classification,transformers,0.15,apache-2.0,microsoft/colipri,en,2026-10-11,2026-10-25,2,1827,https://huggingface.co/hcltech-robotics/rev-ct
-unsloth/MiniMax-M3.1-Flash-GGUF,unsloth,image-text-to-text,,,other,MiniMaxAI/MiniMax-M3.1-Flash,,2026-10-23,2026-10-24,57,25077,https://huggingface.co/unsloth/MiniMax-M3.1-Flash-GGUF
+unsloth/MiniMax-M3.1-Flash-GGUF,unsloth,image-text-to-text,,,other,MiniMaxAI/MiniMax-M3.1-Flash,,2026-10-23,2026-10-24,58,25584,https://huggingface.co/unsloth/MiniMax-M3.1-Flash-GGUF
 DavidAU/Qwen3.8-31B-Looping-Transformer,DavidAU,image-text-to-text,transformers,30.83,apache-2.0,Qwen/Qwen3.8-27B,en,2026-10-23,2026-10-24,11,0,https://huggingface.co/DavidAU/Qwen3.8-31B-Looping-Transformer
-tencent/WeVisOne-VL-4B,tencent,image-text-to-text,transformers,4.83,apache-2.0,,,2026-10-22,2026-10-24,121,16593,https://huggingface.co/tencent/WeVisOne-VL-4B
+tencent/WeVisOne-VL-4B,tencent,image-text-to-text,transformers,4.83,apache-2.0,,,2026-10-22,2026-10-24,123,18908,https://huggingface.co/tencent/WeVisOne-VL-4B
 tencent/WeVisOne-VL-2B,tencent,image-text-to-text,transformers,2.44,apache-2.0,,,2026-10-22,2026-10-24,84,14730,https://huggingface.co/tencent/WeVisOne-VL-2B
 Mia-AiLab/DeepSeek-V4.1-Flash-1017-EXL3-EAQ-v1.1-2.9-bpw,Mia-AiLab,image-text-to-text,exllamav3,105.33,mit,deepseek-ai/DeepSeek-V4.1-Flash-1017,,2026-10-22,2026-10-24,15,419,https://huggingface.co/Mia-AiLab/DeepSeek-V4.1-Flash-1017-EXL3-EAQ-v1.1-2.9-bpw
 DavidAU/Qwen3.8-40B-Ultimate,DavidAU,image-text-to-text,transformers,39.96,apache-2.0,Qwen/Qwen3.8-27B,en,2026-10-22,2026-10-24,17,1,https://huggingface.co/DavidAU/Qwen3.8-40B-Ultimate
@@ -145,7 +153,7 @@ mlx-community/DeepSeek-V4.1-Flash-1017-oQ4e-mtp,mlx-community,image-text-to-text
 bottlecapai/ThinkingCap-Qwen3.8-Flash-Next,bottlecapai,image-text-to-text,transformers,180.00,other,Qwen/Qwen3.8-Flash-Next,,2026-10-22,2026-10-23,36,398,https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.8-Flash-Next
 warden123/BirdTrace-FastViT-MA36-10K,warden123,image-classification,pytorch,0.06,cc-by-nc-4.0,,en,2026-10-21,2026-10-23,1,8998,https://huggingface.co/warden123/BirdTrace-FastViT-MA36-10K
 fastino/GLiDE,fastino,image-text-to-text,transformers,26.09,other,,,2026-10-19,2026-10-23,75,1526,https://huggingface.co/fastino/GLiDE
-MiniMaxAI/MiniMax-M3.1-Flash,MiniMaxAI,image-text-to-text,transformers,220.49,other,,,2026-10-17,2026-10-23,580,57768,https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash
+MiniMaxAI/MiniMax-M3.1-Flash,MiniMaxAI,image-text-to-text,transformers,220.49,other,,,2026-10-17,2026-10-23,584,59746,https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash
 Blockway/Agens-Volundr-32B-v1,Blockway,image-text-to-text,transformers,32.69,apache-2.0,,en zh,2026-10-17,2026-10-23,15,378,https://huggingface.co/Blockway/Agens-Volundr-32B-v1
 THUSI-Lab/GameScaling,THUSI-Lab,image-text-to-text,transformers,,apache-2.0,Qwen/Qwen3.5-0.8B,en,2026-10-10,2026-10-23,57,368,https://huggingface.co/THUSI-Lab/GameScaling
 HentaiSL/pixai-tagger-v1.0-onnx-1008-672-336-ft,HentaiSL,image-classification,onnx,,apache-2.0,pixai-labs/pixai-tagger-v1.0,,2026-10-08,2026-10-23,1,13589,https://huggingface.co/HentaiSL/pixai-tagger-v1.0-onnx-1008-672-336-ft
@@ -159,11 +167,11 @@ pqhaz/DeepSeek-V4.1-Flash-1017-heretic,pqhaz,image-text-to-text,,763.21,mit,deep
 mrfakename/DeepSeek-V4.1-Flash-1017-GGUF,mrfakename,image-text-to-text,,,mit,deepseek-ai/DeepSeek-V4.1-Flash-1017,,2026-10-17,2026-10-22,15,21230,https://huggingface.co/mrfakename/DeepSeek-V4.1-Flash-1017-GGUF
 ggml-org/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-GGUF,ggml-org,image-text-to-text,,,other,nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-BF16,,2026-10-15,2026-10-22,10,32674,https://huggingface.co/ggml-org/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-GGUF
 nikopueringer/CorridorKey2.0,nikopueringer,image-segmentation,,,other,,,2026-10-13,2026-10-22,46,0,https://huggingface.co/nikopueringer/CorridorKey2.0
-unsloth/sam3.1,unsloth,mask-generation,transformers,0.84,other,facebook/sam3.1,en,2026-10-20,2026-10-21,33,5927,https://huggingface.co/unsloth/sam3.1
+unsloth/sam3.1,unsloth,mask-generation,transformers,0.84,other,facebook/sam3.1,en,2026-10-20,2026-10-21,33,6133,https://huggingface.co/unsloth/sam3.1
 Zainulabedin1/vit-casting-defect,Zainulabedin1,image-classification,,,cc-by-sa-4.0,,,2026-10-19,2026-10-21,1,5039,https://huggingface.co/Zainulabedin1/vit-casting-defect
 Mia-AiLab/DeepSeek-V4.1-Flash-1017-EXL3-EAQ-v1-2.9-bpw,Mia-AiLab,image-text-to-text,exllamav3,105.25,mit,deepseek-ai/DeepSeek-V4.1-Flash-1017,,2026-10-18,2026-10-21,39,5998,https://huggingface.co/Mia-AiLab/DeepSeek-V4.1-Flash-1017-EXL3-EAQ-v1-2.9-bpw
 unsloth/DeepSeek-V4.1-Flash-1017,unsloth,image-text-to-text,transformers,763.21,mit,,,2026-10-17,2026-10-21,12,912,https://huggingface.co/unsloth/DeepSeek-V4.1-Flash-1017
-nynxz/Qwen3.5-9B,nynxz,image-text-to-text,,,apache-2.0,HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive,en,2026-10-16,2026-10-21,22,0,https://huggingface.co/nynxz/Qwen3.5-9B
+nynxz/Qwen3.5-9B,nynxz,image-text-to-text,,,apache-2.0,HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive,en,2026-10-16,2026-10-21,34,9974,https://huggingface.co/nynxz/Qwen3.5-9B
 local-inference-lab/Qwen3.8-Flash-Next-FLARE,local-inference-lab,image-text-to-text,,,other,local-inference-lab/Qwen3.8-Flash-Next-NVFP4-MXFP8-CSF-QAD,,2026-10-16,2026-10-21,13,0,https://huggingface.co/local-inference-lab/Qwen3.8-Flash-Next-FLARE
 abacusai/Smaug-AI-Image-Detector,abacusai,image-classification,sentence-transformers,0.44,apache-2.0,google/embeddinggemma-2,,2026-10-16,2026-10-21,10,8393,https://huggingface.co/abacusai/Smaug-AI-Image-Detector
 saidutta69/MiniCPM-V-4.7-1B-heretic,saidutta69,image-text-to-text,transformers,1.55,apache-2.0,openbmb/MiniCPM-V-4.7-1B,en zh,2026-10-15,2026-10-21,30,7521,https://huggingface.co/saidutta69/MiniCPM-V-4.7-1B-heretic
@@ -183,17 +191,17 @@ AtomicChat/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-Uncensored-GGUF,AtomicChat,image-tex
 shalev396/calorie-lens,shalev396,image-classification,,0.09,mit,,,2026-10-10,2026-10-20,2,138057,https://huggingface.co/shalev396/calorie-lens
 agentionai/Qwen3.8-Flash-Next-Gyro-abliterated-Huihui-GGUF,agentionai,image-text-to-text,gguf,,other,huihui-ai/Huihui-Qwen3.8-Flash-Next-abliterated,,2026-10-01,2026-10-20,39,531690,https://huggingface.co/agentionai/Qwen3.8-Flash-Next-Gyro-abliterated-Huihui-GGUF
 GroundingPI/GroundAnything,GroundingPI,image-text-to-text,transformers,4.84,other,,en zh,2026-09-30,2026-10-20,21,621,https://huggingface.co/GroundingPI/GroundAnything
-drowzeys/keys-DeepSeek-V4.1-Flash-1017-Abliterated,drowzeys,image-text-to-text,transformers,,mit,deepseek-ai/DeepSeek-V4.1-Flash-1017,en zh,2026-10-18,2026-10-19,146,0,https://huggingface.co/drowzeys/keys-DeepSeek-V4.1-Flash-1017-Abliterated
-dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8,dealignai,image-text-to-text,transformers,763.21,mit,deepseek-ai/DeepSeek-V4.1-Flash-1017,en zh es fr ru it th,2026-10-18,2026-10-19,611,17112,https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8
+drowzeys/keys-DeepSeek-V4.1-Flash-1017-Abliterated,drowzeys,image-text-to-text,transformers,,mit,deepseek-ai/DeepSeek-V4.1-Flash-1017,en zh,2026-10-18,2026-10-19,149,0,https://huggingface.co/drowzeys/keys-DeepSeek-V4.1-Flash-1017-Abliterated
+dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8,dealignai,image-text-to-text,transformers,763.21,mit,deepseek-ai/DeepSeek-V4.1-Flash-1017,en zh es fr ru it th,2026-10-18,2026-10-19,618,17396,https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8
 FINAL-Bench/Darwin-35B-ZTC-Vision,FINAL-Bench,image-classification,pytorch,34.60,apache-2.0,,,2026-10-17,2026-10-19,39,10072,https://huggingface.co/FINAL-Bench/Darwin-35B-ZTC-Vision
 Baekpica/DeepSeek-V4.1-Flash-1017-VQ-GGUF,Baekpica,image-text-to-text,,,mit,deepseek-ai/DeepSeek-V4.1-Flash-1017,vq en zh,2026-10-17,2026-10-19,14,1266,https://huggingface.co/Baekpica/DeepSeek-V4.1-Flash-1017-VQ-GGUF
-orcarouter/OrcaCyber-Nano-1.0,orcarouter,image-text-to-text,gguf,,other,orcarouter/OrcaCyber-Nano-1.0-AI-Defense,en zh,2026-10-16,2026-10-19,378,44298,https://huggingface.co/orcarouter/OrcaCyber-Nano-1.0
+orcarouter/OrcaCyber-Nano-1.0,orcarouter,image-text-to-text,gguf,,other,orcarouter/OrcaCyber-Nano-1.0-AI-Defense,en zh,2026-10-16,2026-10-19,380,44865,https://huggingface.co/orcarouter/OrcaCyber-Nano-1.0
 ariadgolf/golf-course-segmentation,ariadgolf,image-segmentation,segmentation-models-pytorch,0.02,,,en,2026-10-14,2026-10-19,1,966,https://huggingface.co/ariadgolf/golf-course-segmentation
 Abiray/MiniCPM-V-4.7-1B-abliterated-heretic-GGUF,Abiray,image-text-to-text,gguf,,apache-2.0,openbmb/MiniCPM-V-4.7-1B,en zh,2026-10-14,2026-10-19,14,8375,https://huggingface.co/Abiray/MiniCPM-V-4.7-1B-abliterated-heretic-GGUF
 RL-MIND/UHR-BAT2,RL-MIND,image-text-to-text,transformers,8.77,apache-2.0,Qwen/Qwen3-VL-8B-Instruct,en zh,2026-10-13,2026-10-19,15,92,https://huggingface.co/RL-MIND/UHR-BAT2
 prism-ml/Ternary-Bonsai-2-2B-mlx-2bit,prism-ml,image-text-to-text,mlx,2.21,apache-2.0,Qwen/Qwen3.5-2B,,2026-10-01,2026-10-19,11,3680,https://huggingface.co/prism-ml/Ternary-Bonsai-2-2B-mlx-2bit
-unsloth/DeepSeek-V4.1-Flash-1017-GGUF,unsloth,image-text-to-text,transformers,,mit,,,2026-10-17,2026-10-18,383,1253231,https://huggingface.co/unsloth/DeepSeek-V4.1-Flash-1017-GGUF
-deepseek-ai/DeepSeek-V4.1-Flash-1017,deepseek-ai,image-text-to-text,transformers,763.21,mit,,,2026-10-17,2026-10-18,5544,348914,https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017
+unsloth/DeepSeek-V4.1-Flash-1017-GGUF,unsloth,image-text-to-text,transformers,,mit,,,2026-10-17,2026-10-18,390,1295742,https://huggingface.co/unsloth/DeepSeek-V4.1-Flash-1017-GGUF
+deepseek-ai/DeepSeek-V4.1-Flash-1017,deepseek-ai,image-text-to-text,transformers,763.21,mit,,,2026-10-17,2026-10-18,5593,374631,https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017
 LibertAIDAI/DeepSeek-V4.1-Flash-1017-NVFP4,LibertAIDAI,image-text-to-text,vllm,664.90,mit,deepseek-ai/DeepSeek-V4.1-Flash-1017,,2026-10-17,2026-10-18,20,715,https://huggingface.co/LibertAIDAI/DeepSeek-V4.1-Flash-1017-NVFP4
 alejp1998/AerialPerson-YOLO26,alejp1998,object-detection,ultralytics,,agpl-3.0,,,2026-10-15,2026-10-18,1,980,https://huggingface.co/alejp1998/AerialPerson-YOLO26
 DavidAU/NVIDIA-Nemotron-3.5-Bolt-Turbo-Brilliance-50x-74B-A9B-24GB-GGUF,DavidAU,image-text-to-text,,,other,nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-BF16,en es fr de it ja,2026-10-15,2026-10-18,26,11914,https://huggingface.co/DavidAU/NVIDIA-Nemotron-3.5-Bolt-Turbo-Brilliance-50x-74B-A9B-24GB-GGUF
@@ -206,7 +214,7 @@ nvidia/GLM-5.3-Flash-FP4-Local,nvidia,image-text-to-text,Model Optimizer,175.24,
 prism-ml/Ternary-Bonsai-2-9B-mlx-2bit,prism-ml,image-text-to-text,mlx,9.41,apache-2.0,Qwen/Qwen3.5-9B,,2026-10-01,2026-10-17,19,5934,https://huggingface.co/prism-ml/Ternary-Bonsai-2-9B-mlx-2bit
 prism-ml/Ternary-Bonsai-2-4B-gguf,prism-ml,image-text-to-text,llama.cpp,,apache-2.0,Qwen/Qwen3.5-4B,,2026-09-23,2026-10-17,29,43254,https://huggingface.co/prism-ml/Ternary-Bonsai-2-4B-gguf
 prism-ml/Ternary-Bonsai-2-2B-gguf,prism-ml,image-text-to-text,llama.cpp,,apache-2.0,Qwen/Qwen3.5-2B,,2026-09-23,2026-10-17,34,28135,https://huggingface.co/prism-ml/Ternary-Bonsai-2-2B-gguf
-DavidAU/Qwen3.8-Flash-Next-Abliterated-Uncensored-Turbo-Brilliance-50x-Reasoning-Instruct-GSQ-RCO-GGUF,DavidAU,image-text-to-text,,,apache-2.0,SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF,ar zh en fr de hi id it ja ko pl pt ru es th vi,2026-10-15,2026-10-16,179,155016,https://huggingface.co/DavidAU/Qwen3.8-Flash-Next-Abliterated-Uncensored-Turbo-Brilliance-50x-Reasoning-Instruct-GSQ-RCO-GGUF
+DavidAU/Qwen3.8-Flash-Next-Abliterated-Uncensored-Turbo-Brilliance-50x-Reasoning-Instruct-GSQ-RCO-GGUF,DavidAU,image-text-to-text,,,apache-2.0,SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF,ar zh en fr de hi id it ja ko pl pt ru es th vi,2026-10-15,2026-10-16,182,157758,https://huggingface.co/DavidAU/Qwen3.8-Flash-Next-Abliterated-Uncensored-Turbo-Brilliance-50x-Reasoning-Instruct-GSQ-RCO-GGUF
 unsloth/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-GGUF,unsloth,image-text-to-text,,,other,nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-BF16,en es fr de it ja,2026-10-14,2026-10-16,59,22268,https://huggingface.co/unsloth/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-GGUF
 unsloth/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-GGUF,unsloth,image-text-to-text,,,other,nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-BF16,en es fr de it ja,2026-10-14,2026-10-16,87,55353,https://huggingface.co/unsloth/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-GGUF
 black-forest-labs/flux-3-image-klein-pup,black-forest-labs,image-text-to-text,transformers,9.41,apache-2.0,Qwen/Qwen3.5-9B,en,2026-10-14,2026-10-16,76,65918,https://huggingface.co/black-forest-labs/flux-3-image-klein-pup
